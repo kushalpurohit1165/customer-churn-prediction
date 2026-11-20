@@ -1,0 +1,16 @@
+Feature,Importance
+Contract_Month-to-month,0.21673240940847618
+tenure,0.1245118603727362
+Contract_Two year,0.11982075357706222
+TotalCharges,0.11767394025877888
+MonthlyCharges,0.07429393262373529
+Contract_One year,0.072525831600957
+PaymentMethod_Electronic check,0.011724806922233695
+TechSupport_No,0.011366527629553801
+StreamingTV_Yes,0.010121733545177952
+Partner_No,0.009933665153030418
+OnlineSecurity_No,0.009637307761273852
+DeviceProtection_No internet service,0.009565586374895971
+Partner_Yes,0.0091243988484129
+PaymentMethod_Credit card (automatic),0.00898681180068773
+StreamingMovies_No internet service,0.00880145023181017

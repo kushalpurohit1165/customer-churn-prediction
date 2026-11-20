@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC,CV F1 (train),Best
+Random Forest,0.7042,0.4959,0.8571,0.6283,0.7731,0.5805,True
+Decision Tree,0.6792,0.472,0.8429,0.6051,0.7641,0.5624,False
+SVM,0.6875,0.479,0.8143,0.6032,0.7789,0.5714,False
+Naive Bayes,0.6708,0.464,0.8286,0.5949,0.7533,0.55,False
+Logistic Regression,0.6875,0.4783,0.7857,0.5946,0.781,0.5551,False
+KNN,0.6583,0.3636,0.2286,0.2807,0.6321,0.3323,False

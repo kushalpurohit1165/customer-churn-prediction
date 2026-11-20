@@ -1,0 +1,1201 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+TC01000,Female,0,No,No,49,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),42.74,2126.28,No
+TC01001,Male,0,No,No,14,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,90.19,1286.35,No
+TC01002,Male,1,Yes,Yes,5,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,73.22,335.5,No
+TC01003,Female,0,No,No,58,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),53.53,3113.29,Yes
+TC01004,Female,1,No,Yes,61,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Mailed check,88.89,5391.5,No
+TC01005,Male,0,No,No,7,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,59.46,352.05,Yes
+TC01006,Female,1,Yes,No,6,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),75.83,431.09,No
+TC01007,Male,0,Yes,Yes,44,Yes,No,DSL,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),59.13,2599.71,No
+TC01008,Female,0,Yes,Yes,2,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,53.99,128.84,No
+TC01009,Female,0,Yes,No,54,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,78.62,4251.46,Yes
+TC01010,Male,0,Yes,Yes,66,Yes,No,DSL,No,No,Yes,No,Yes,No,Two year,Yes,Mailed check,61.54,4097.95,No
+TC01011,Male,0,Yes,No,54,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Electronic check,78.09,4177.61,No
+TC01012,Male,1,No,No,16,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Mailed check,82.62,1306.85,No
+TC01013,Male,1,Yes,No,13,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,79.54,1099.79,Yes
+TC01014,Male,0,No,No,49,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),40.63,1913.63,No
+TC01015,Male,0,No,No,4,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),30.82,105.2,No
+TC01016,Male,0,No,No,39,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),80.24,3086.5,Yes
+TC01017,Female,0,Yes,Yes,32,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),53.43,1701.94,No
+TC01018,Male,0,No,No,54,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,71.44,3840.38,No
+TC01019,Female,0,No,No,14,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,One year,Yes,Electronic check,86.59,1236.35,No
+TC01020,Male,0,No,No,55,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Mailed check,73.66,4061.52,No
+TC01021,Female,0,No,No,51,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,58.54,2933.32,No
+TC01022,Female,1,No,No,17,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Two year,Yes,Electronic check,71.19,1186.7,No
+TC01023,Male,0,No,No,26,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),38.52,1001.52,No
+TC01024,Male,1,No,No,4,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,One year,Yes,Electronic check,75.36,331.02,No
+TC01025,Male,0,Yes,Yes,32,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,80.0,2657.32,No
+TC01026,Female,0,No,No,19,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Mailed check,79.27,1534.24,No
+TC01027,Male,0,No,No,8,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),36.75,253.5,Yes
+TC01028,Male,0,No,No,40,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),27.26,1086.65,No
+TC01029,Female,0,No,No,41,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,51.03,2099.47,No
+TC01030,Female,1,Yes,No,6,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,54.4,305.62,No
+TC01031,Female,0,No,Yes,13,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),77.43,1025.4,Yes
+TC01032,Female,0,Yes,Yes,6,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Electronic check,81.22,396.46,No
+TC01033,Male,0,Yes,Yes,49,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),83.64,4120.49,No
+TC01034,Male,0,Yes,No,24,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),87.42,2079.02,Yes
+TC01035,Female,0,Yes,No,5,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),29.54,143.31,No
+TC01036,Male,0,Yes,No,13,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,88.58,1210.17,No
+TC01037,Male,0,Yes,Yes,71,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),81.06,5704.8,No
+TC01038,Female,0,No,No,18,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,61.01,1109.09,No
+TC01039,Male,1,No,No,49,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,85.43,4217.83,Yes
+TC01040,Female,0,Yes,No,34,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,53.92,1840.09,No
+TC01041,Male,0,No,No,13,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,56.02,663.69,Yes
+TC01042,Male,0,Yes,No,22,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,74.54,1693.9,No
+TC01043,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),81.73,73.28,No
+TC01044,Female,0,Yes,No,54,Yes,No phone service,Fiber optic,Yes,Yes,No,No,No,No,Two year,Yes,Credit card (automatic),75.72,4067.78,No
+TC01045,Male,1,No,No,24,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,One year,No,Electronic check,73.77,1758.06,No
+TC01046,Female,0,Yes,No,36,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Credit card (automatic),52.37,1870.03,No
+TC01047,Male,0,No,No,11,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),42.4,418.79,No
+TC01048,Male,0,Yes,No,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,50.82,3055.8,No
+TC01049,Male,0,No,No,15,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),36.13,518.06,Yes
+TC01050,Male,0,Yes,No,41,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),51.13,2123.17,No
+TC01051,Female,1,No,Yes,63,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),53.96,3420.18,No
+TC01052,Female,0,No,No,52,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Mailed check,86.29,4552.11,No
+TC01053,Female,0,No,No,44,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),82.93,3640.45,Yes
+TC01054,Female,1,No,No,64,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),71.29,4530.43,No
+TC01055,Female,0,No,No,12,No,No phone service,DSL,No,No,No,No,Yes,No,One year,No,Electronic check,57.48,630.97,No
+TC01056,Male,1,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,78.69,5596.03,No
+TC01057,Female,0,Yes,Yes,40,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,54.51,2206.88,No
+TC01058,Male,0,Yes,Yes,29,Yes,Yes,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,57.36,1635.74,No
+TC01059,Male,0,Yes,Yes,18,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,47.95,930.83,No
+TC01060,Male,0,No,No,54,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,63.11,3462.19,Yes
+TC01061,Male,1,No,No,71,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,No,Credit card (automatic),81.99,5767.24,No
+TC01062,Female,0,No,No,50,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),53.01,2620.36,No
+TC01063,Male,0,No,No,2,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,85.55,165.81,Yes
+TC01064,Female,0,No,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Electronic check,82.58,2764.92,Yes
+TC01065,Female,0,No,No,53,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Two year,Yes,Electronic check,84.94,4497.96,No
+TC01066,Male,0,No,No,29,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,19.59,596.59,No
+TC01067,Female,1,Yes,Yes,56,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),47.2,2588.27,No
+TC01068,Female,0,No,No,51,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,38.12,1955.84,Yes
+TC01069,Female,0,No,No,4,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),68.53,320.86,Yes
+TC01070,Male,0,Yes,Yes,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,83.36,3350.41,No
+TC01071,Female,0,Yes,No,12,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,67.48,806.74,Yes
+TC01072,Female,1,No,No,35,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),75.15,2603.53,Yes
+TC01073,Female,0,No,No,28,Yes,Yes,DSL,No,Yes,No,No,Yes,No,One year,No,Mailed check,74.49,2118.95,Yes
+TC01074,Male,0,No,No,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,44.97,2561.18,Yes
+TC01075,Female,0,No,No,63,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,63.34,4000.13,No
+TC01076,Female,1,Yes,Yes,33,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),82.64,2728.14,Yes
+TC01077,Female,0,Yes,No,39,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,91.4,3609.62,Yes
+TC01078,Male,0,No,No,45,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),80.17,3584.34,No
+TC01079,Male,0,No,No,47,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),64.28,3001.25,No
+TC01080,Male,0,No,No,46,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Credit card (automatic),67.72,3065.45,Yes
+TC01081,Female,0,No,Yes,57,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),78.91,4515.36,No
+TC01082,Female,0,Yes,No,71,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94.36,6682.61,No
+TC01083,Male,0,No,No,60,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),78.32,4664.72,No
+TC01084,Male,0,Yes,No,9,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,84.39,728.84,No
+TC01085,Male,0,Yes,Yes,34,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),72.44,2484.44,No
+TC01086,Female,0,Yes,Yes,33,Yes,Yes,DSL,No,No,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),63.35,2046.43,No
+TC01087,Female,1,Yes,No,37,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,52.59,1905.26,Yes
+TC01088,Male,0,No,No,38,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Two year,Yes,Bank transfer (automatic),66.45,2560.95,No
+TC01089,Male,0,Yes,No,52,No,No phone service,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,46.94,2434.24,No
+TC01090,Female,0,Yes,No,30,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),56.73,1740.12,No
+TC01091,Male,1,No,No,19,Yes,Yes,DSL,No,Yes,No,Yes,No,No,One year,Yes,Electronic check,48.29,903.14,Yes
+TC01092,Male,0,No,No,33,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,50.5,1666.45,Yes
+TC01093,Female,0,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,No,Electronic check,82.97,5150.39,No
+TC01094,Male,1,Yes,No,22,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,59.22,1358.33,Yes
+TC01095,Female,0,Yes,Yes,1,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Electronic check,75.55,127.78,Yes
+TC01096,Female,0,No,Yes,71,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,61.59,4419.02,Yes
+TC01097,Male,0,Yes,No,14,Yes,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),51.91,701.59,Yes
+TC01098,Male,0,Yes,Yes,44,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,72.23,3138.65,No
+TC01099,Female,0,Yes,Yes,58,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),51.1,2994.23,No
+TC01100,Male,0,No,No,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),50.35,1062.07,No
+TC01101,Female,0,Yes,Yes,24,Yes,No,DSL,Yes,No,No,No,No,No,One year,No,Electronic check,65.02,1606.99,No
+TC01102,Male,0,No,No,20,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,56.8,1136.52,Yes
+TC01103,Female,1,Yes,No,10,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,52.4,553.11,Yes
+TC01104,Male,0,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,81.86,930.28,Yes
+TC01105,Male,0,Yes,No,13,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Two year,No,Mailed check,80.39,1051.03,No
+TC01106,Male,0,Yes,Yes,33,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),84.85,2807.74,No
+TC01107,Male,0,Yes,No,38,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),67.93,2585.27,No
+TC01108,Female,0,No,No,1,Yes,No phone service,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,78.94,47.42,Yes
+TC01109,Male,0,No,No,61,Yes,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),55.95,3385.51,No
+TC01110,Female,1,Yes,Yes,49,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,36.4,1755.54,No
+TC01111,Male,0,Yes,Yes,5,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),93.09,401.48,Yes
+TC01112,Male,0,No,No,61,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),42.24,2582.35,Yes
+TC01113,Female,1,No,No,2,No,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,One year,Yes,Electronic check,52.61,103.6,Yes
+TC01114,Male,0,Yes,No,40,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),39.99,1630.08,Yes
+TC01115,Male,0,Yes,No,33,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,One year,No,Credit card (automatic),92.49,3102.6,No
+TC01116,Female,0,No,No,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,40.93,1526.45,No
+TC01117,Female,0,No,No,69,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,18.0,1298.74,No
+TC01118,Female,0,No,No,67,No,No phone service,DSL,No,No,Yes,Yes,No,No,Two year,No,Credit card (automatic),31.85,2103.67,No
+TC01119,Female,1,No,No,20,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,80.88,1560.32,No
+TC01120,Female,0,No,No,42,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,64.39,2741.61,No
+TC01121,Male,0,Yes,Yes,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),81.23,5741.39,No
+TC01122,Male,0,Yes,Yes,53,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Two year,Yes,Mailed check,81.76,4395.52,No
+TC01123,Female,1,Yes,No,64,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,28.59,1849.16,No
+TC01124,Male,0,Yes,Yes,31,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),96.33,2906.36,No
+TC01125,Male,0,Yes,Yes,20,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,85.31,1720.82,Yes
+TC01126,Female,0,Yes,No,37,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,70.9,2645.52,Yes
+TC01127,Male,0,No,No,59,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Bank transfer (automatic),83.29,4964.19,No
+TC01128,Male,0,Yes,No,67,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,36.65,2512.74,No
+TC01129,Male,0,Yes,No,50,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),78.25,3948.89,No
+TC01130,Male,0,No,No,51,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Two year,Yes,Bank transfer (automatic),57.32,2899.83,No
+TC01131,Male,0,No,No,37,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,44.13,1591.65,No
+TC01132,Female,0,No,Yes,23,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,32.15,760.81,No
+TC01133,Male,0,No,Yes,30,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90.53,2684.2,No
+TC01134,Male,0,No,No,36,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),53.29,1977.45,No
+TC01135,Female,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,Yes,Electronic check,81.93,4765.69,No
+TC01136,Male,0,Yes,No,40,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Mailed check,52.94,2140.28,No
+TC01137,Female,0,No,Yes,57,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,50.94,2916.36,No
+TC01138,Female,0,Yes,No,1,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),99.55,91.28,Yes
+TC01139,Female,0,Yes,No,55,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),34.05,1835.75,No
+TC01140,Male,0,Yes,Yes,37,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,77.26,2776.15,No
+TC01141,Female,0,Yes,Yes,72,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),27.02,1924.18,No
+TC01142,Female,1,Yes,No,34,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,38.37,1284.02,No
+TC01143,Female,0,Yes,Yes,34,No,No phone service,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,46.09,1611.53,No
+TC01144,Male,0,No,No,9,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),49.93,418.06,No
+TC01145,Male,0,No,No,58,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,76.18,4436.55,Yes
+TC01146,Female,0,Yes,No,51,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),85.49,4308.3,No
+TC01147,Female,0,No,No,62,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,89.24,5552.09,No
+TC01148,Male,0,Yes,No,6,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),80.22,391.81,No
+TC01149,Female,1,No,No,15,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),75.53,1216.76,Yes
+TC01150,Male,0,No,Yes,64,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,71.75,4586.36,Yes
+TC01151,Female,0,Yes,No,3,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,70.48,99.66,Yes
+TC01152,Male,0,No,No,37,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),46.72,1699.93,Yes
+TC01153,Female,0,No,No,29,No,No phone service,DSL,No,No,Yes,No,No,No,Two year,No,Electronic check,32.99,921.68,No
+TC01154,Female,0,No,No,68,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),53.68,3624.01,No
+TC01155,Male,0,No,No,62,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),41.14,2536.09,No
+TC01156,Female,0,No,Yes,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,29.18,1870.2,No
+TC01157,Male,1,Yes,Yes,21,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),71.89,1477.03,No
+TC01158,Male,0,No,No,42,Yes,No,DSL,No,Yes,No,No,Yes,No,Two year,Yes,Mailed check,51.71,2125.47,Yes
+TC01159,Male,0,No,No,51,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,91.2,4684.07,Yes
+TC01160,Male,0,No,No,70,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,51.64,3662.85,No
+TC01161,Male,0,Yes,No,0,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),82.49,0.0,No
+TC01162,Female,0,No,No,71,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,One year,Yes,Credit card (automatic),59.38,4215.27,No
+TC01163,Female,0,Yes,No,25,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,33.61,795.2,No
+TC01164,Female,1,No,No,9,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,62.2,562.64,No
+TC01165,Male,0,Yes,No,44,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,One year,Yes,Electronic check,80.51,3551.64,No
+TC01166,Female,0,No,Yes,57,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),40.14,2279.2,No
+TC01167,Female,0,No,No,9,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,74.74,688.5,No
+TC01168,Female,0,Yes,Yes,2,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,70.7,153.75,Yes
+TC01169,Female,0,No,No,65,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,38.4,2453.83,No
+TC01170,Female,0,Yes,No,68,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Two year,No,Mailed check,59.67,4105.28,No
+TC01171,Female,0,No,No,11,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80.74,879.83,Yes
+TC01172,Male,0,No,No,65,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),78.53,5171.47,Yes
+TC01173,Male,1,Yes,No,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,33.29,2213.96,Yes
+TC01174,Male,0,Yes,No,72,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,72.66,5310.36,Yes
+TC01175,Female,1,Yes,Yes,15,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Two year,No,Mailed check,60.97,961.56,No
+TC01176,Male,0,Yes,No,42,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),57.48,2423.25,No
+TC01177,Female,0,No,No,72,Yes,No phone service,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Electronic check,69.83,4998.84,No
+TC01178,Male,0,No,Yes,65,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,74.73,4829.39,No
+TC01179,Male,1,Yes,No,44,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,68.69,3043.68,Yes
+TC01180,Male,0,No,No,14,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,65.57,923.71,No
+TC01181,Female,1,Yes,Yes,6,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),70.58,399.92,No
+TC01182,Female,0,No,No,18,Yes,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,61.11,1133.3,Yes
+TC01183,Male,0,Yes,Yes,4,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,One year,Yes,Electronic check,74.08,297.87,Yes
+TC01184,Female,1,No,Yes,14,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),84.84,1221.32,No
+TC01185,Female,0,No,Yes,5,Yes,Yes,DSL,No,No,Yes,Yes,No,No,Two year,Yes,Mailed check,59.88,260.38,Yes
+TC01186,Female,0,Yes,No,55,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,58.13,3237.13,Yes
+TC01187,Female,0,No,No,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),31.88,1390.88,No
+TC01188,Female,0,No,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,22.25,871.15,No
+TC01189,Female,0,Yes,Yes,59,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),87.62,5208.68,No
+TC01190,Male,0,Yes,Yes,29,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,69.11,2000.79,Yes
+TC01191,Male,0,No,Yes,29,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),50.65,1462.24,No
+TC01192,Male,0,Yes,No,15,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),45.06,747.22,No
+TC01193,Female,0,Yes,No,32,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,71.87,2288.22,No
+TC01194,Male,0,Yes,No,12,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,41.06,522.66,No
+TC01195,Female,0,No,No,43,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),73.36,3139.22,No
+TC01196,Female,0,Yes,No,72,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,79.5,5649.52,No
+TC01197,Female,0,Yes,Yes,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,32.56,1188.19,No
+TC01198,Female,0,No,No,21,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),78.97,1674.61,Yes
+TC01199,Male,0,No,No,50,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),81.72,4114.05,No
+TC01200,Female,0,No,No,59,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),70.27,4162.3,No
+TC01201,Male,0,Yes,No,34,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),74.76,2587.68,Yes
+TC01202,Female,1,No,No,18,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),51.02,934.01,No
+TC01203,Male,0,No,No,52,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),79.54,4105.07,No
+TC01204,Female,0,Yes,No,13,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),62.66,838.35,No
+TC01205,Female,0,No,No,72,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),75.28,5426.94,No
+TC01206,Male,0,No,Yes,23,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),28.37,629.49,Yes
+TC01207,Male,0,Yes,Yes,25,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,75.18,1898.4,Yes
+TC01208,Female,0,Yes,Yes,53,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),65.43,3470.96,No
+TC01209,Male,1,No,Yes,0,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,61.81,0.0,Yes
+TC01210,Female,0,Yes,No,14,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),46.86,648.93,No
+TC01211,Male,0,Yes,No,9,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),90.53,871.31,No
+TC01212,Male,1,Yes,No,28,Yes,No,DSL,No,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),51.56,1498.92,No
+TC01213,Female,0,Yes,No,40,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,28.47,1146.33,No
+TC01214,Male,0,Yes,Yes,13,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,One year,Yes,Mailed check,63.17,823.5,No
+TC01215,Female,1,No,No,25,Yes,Yes,DSL,No,No,No,No,No,No,One year,Yes,Electronic check,75.8,1837.68,Yes
+TC01216,Female,1,Yes,No,56,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),75.62,4303.49,No
+TC01217,Female,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Two year,No,Bank transfer (automatic),64.07,4398.21,No
+TC01218,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Mailed check,72.89,102.97,No
+TC01219,Male,0,Yes,Yes,45,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,55.47,2405.16,Yes
+TC01220,Female,0,No,No,1,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Mailed check,60.92,62.56,No
+TC01221,Female,0,Yes,No,37,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,59.05,2179.76,Yes
+TC01222,Male,0,Yes,No,64,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),63.63,4099.63,Yes
+TC01223,Female,0,Yes,No,58,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),37.57,2161.02,No
+TC01224,Male,0,Yes,Yes,16,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),78.13,1240.81,No
+TC01225,Female,0,Yes,No,18,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,85.02,1555.14,No
+TC01226,Male,0,No,No,57,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Electronic check,72.32,4091.3,No
+TC01227,Male,0,Yes,Yes,59,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),71.77,4211.47,No
+TC01228,Male,1,No,No,20,Yes,Yes,DSL,No,No,No,Yes,No,Yes,One year,No,Credit card (automatic),59.62,1200.13,No
+TC01229,Female,0,No,No,0,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,54.83,53.54,Yes
+TC01230,Female,0,Yes,No,32,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),75.3,2441.94,No
+TC01231,Male,0,No,Yes,45,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Two year,Yes,Mailed check,77.17,3515.67,No
+TC01232,Female,0,Yes,No,32,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Electronic check,88.17,2823.97,No
+TC01233,Male,0,Yes,Yes,68,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),43.69,3030.72,No
+TC01234,Female,0,Yes,Yes,59,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),50.71,2922.24,No
+TC01235,Male,0,No,No,57,Yes,No,DSL,No,No,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),43.17,2541.58,No
+TC01236,Male,0,No,No,1,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,49.53,135.6,No
+TC01237,Female,1,Yes,Yes,62,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,52.39,3266.44,Yes
+TC01238,Female,0,No,No,55,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),75.72,4197.89,No
+TC01239,Male,0,No,No,28,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),30.85,862.28,No
+TC01240,Female,0,Yes,No,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,33.03,1411.91,No
+TC01241,Male,0,No,No,60,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Two year,Yes,Mailed check,57.26,3411.17,No
+TC01242,Female,0,No,No,66,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,42.35,2793.14,Yes
+TC01243,Male,0,No,No,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),68.03,2743.44,No
+TC01244,Male,0,No,Yes,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),54.09,179.07,No
+TC01245,Female,1,Yes,No,45,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,67.19,3103.01,No
+TC01246,Male,0,Yes,Yes,49,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,64.46,3162.55,No
+TC01247,Female,0,No,No,4,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,49.78,139.57,Yes
+TC01248,Male,0,Yes,No,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),38.17,2317.8,Yes
+TC01249,Female,1,Yes,No,14,No,No phone service,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,67.9,901.76,Yes
+TC01250,Female,0,No,No,65,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,87.71,5678.77,No
+TC01251,Female,0,Yes,No,40,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),78.21,3139.27,No
+TC01252,Female,1,Yes,Yes,23,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,88.96,2062.77,No
+TC01253,Female,1,No,No,4,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),24.57,40.46,No
+TC01254,Male,0,Yes,Yes,1,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),68.54,38.68,Yes
+TC01255,Female,0,Yes,No,54,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,56.07,2968.55,No
+TC01256,Male,0,No,Yes,27,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),65.84,1802.55,No
+TC01257,Female,1,Yes,Yes,61,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),92.57,5694.11,No
+TC01258,Female,0,Yes,No,16,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),76.64,1177.37,Yes
+TC01259,Male,0,Yes,Yes,67,Yes,No,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),36.34,2474.61,No
+TC01260,Male,0,No,Yes,68,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,61.59,4225.35,No
+TC01261,Female,0,Yes,No,7,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,66.35,438.09,Yes
+TC01262,Female,0,No,Yes,47,Yes,Yes,DSL,No,Yes,No,No,No,Yes,One year,Yes,Mailed check,63.98,2927.76,No
+TC01263,Male,0,Yes,No,68,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,68.64,4624.67,Yes
+TC01264,Male,0,Yes,Yes,23,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,78.77,1787.9,No
+TC01265,Male,1,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,35.39,203.23,Yes
+TC01266,Female,1,No,No,63,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),53.49,3365.14,No
+TC01267,Female,0,No,No,34,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,88.43,2966.35,No
+TC01268,Male,0,Yes,No,1,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),51.84,57.75,No
+TC01269,Male,0,No,No,61,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),33.03,1963.02,No
+TC01270,Female,0,No,No,49,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,86.19,4243.88,No
+TC01271,Female,0,Yes,No,5,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),72.86,325.19,Yes
+TC01272,Female,1,Yes,No,18,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,56.31,980.28,No
+TC01273,Male,0,No,No,1,Yes,No,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),52.84,67.86,Yes
+TC01274,Female,0,Yes,No,69,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),70.2,4913.81,No
+TC01275,Female,1,No,No,1,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),73.26,161.17,No
+TC01276,Female,0,No,No,58,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),43.15,2461.11,No
+TC01277,Male,0,Yes,No,37,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),48.46,1769.16,No
+TC01278,Female,0,Yes,Yes,42,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,One year,No,Bank transfer (automatic),71.36,3017.74,No
+TC01279,Female,0,Yes,Yes,59,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Two year,No,Credit card (automatic),98.18,5839.37,No
+TC01280,Female,0,Yes,No,65,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,62.74,3991.54,No
+TC01281,Female,0,Yes,Yes,9,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),86.4,781.09,No
+TC01282,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),85.68,66.19,Yes
+TC01283,Female,0,Yes,Yes,9,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Electronic check,66.84,524.6,Yes
+TC01284,Female,0,No,No,49,No,No phone service,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),72.13,3480.88,No
+TC01285,Male,0,Yes,No,41,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),82.12,3344.21,No
+TC01286,Female,0,Yes,No,6,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),47.84,289.39,No
+TC01287,Male,0,Yes,No,17,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,77.37,1355.61,No
+TC01288,Male,0,No,Yes,39,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),22.57,894.4,Yes
+TC01289,Female,0,Yes,No,53,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),87.15,4656.85,No
+TC01290,Male,0,Yes,No,25,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,54.95,1374.82,No
+TC01291,Female,1,No,No,69,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),59.55,4080.75,Yes
+TC01292,Male,0,No,No,72,Yes,Yes,DSL,No,No,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),60.38,4340.01,No
+TC01293,Female,0,Yes,No,55,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,35.58,1984.72,No
+TC01294,Male,0,No,No,33,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),65.2,2192.9,No
+TC01295,Male,1,Yes,No,64,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,Yes,Electronic check,89.0,5690.09,No
+TC01296,Male,0,Yes,No,53,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Two year,No,Credit card (automatic),53.11,2777.67,No
+TC01297,Female,0,No,No,37,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),46.29,1726.16,No
+TC01298,Female,0,Yes,No,32,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Mailed check,56.65,1831.92,No
+TC01299,Female,0,Yes,Yes,60,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,73.28,4446.11,No
+TC01300,Female,0,No,No,40,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,41.15,1618.85,No
+TC01301,Male,0,Yes,Yes,13,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,39.13,481.98,Yes
+TC01302,Female,0,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),83.78,6062.41,No
+TC01303,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,84.14,320.26,Yes
+TC01304,Male,1,No,No,50,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,Yes,Mailed check,56.83,2823.51,No
+TC01305,Female,0,No,Yes,47,Yes,No phone service,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,40.2,1939.57,No
+TC01306,Female,0,No,Yes,42,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),71.6,2952.36,Yes
+TC01307,Male,0,No,Yes,3,Yes,No phone service,DSL,No,No,No,No,No,No,One year,No,Credit card (automatic),38.76,198.53,No
+TC01308,Female,0,Yes,No,35,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,85.92,2982.69,Yes
+TC01309,Female,0,Yes,Yes,65,Yes,No,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,63.07,4134.22,No
+TC01310,Male,0,No,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,41.48,700.81,No
+TC01311,Male,1,No,No,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,37.4,1880.85,No
+TC01312,Female,1,Yes,No,62,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Mailed check,88.71,5489.51,No
+TC01313,Female,1,No,No,69,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),52.81,3678.15,No
+TC01314,Female,1,Yes,Yes,37,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),54.03,1985.22,No
+TC01315,Male,1,No,Yes,22,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,34.27,731.02,No
+TC01316,Male,0,Yes,No,51,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),76.78,3988.31,No
+TC01317,Male,0,Yes,Yes,35,Yes,No,Fiber optic,No,No,No,No,Yes,No,One year,Yes,Credit card (automatic),89.55,3135.43,No
+TC01318,Male,0,Yes,Yes,45,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,84.84,3790.77,Yes
+TC01319,Male,0,Yes,Yes,54,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,85.96,4582.23,No
+TC01320,Female,0,Yes,Yes,51,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),73.37,3816.49,Yes
+TC01321,Female,1,Yes,No,17,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Electronic check,51.06,845.94,Yes
+TC01322,Male,0,Yes,No,55,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),56.68,3199.87,No
+TC01323,Male,0,Yes,No,39,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),85.0,3330.95,No
+TC01324,Male,0,Yes,No,67,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),83.69,5612.95,No
+TC01325,Female,0,Yes,No,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,18.73,905.83,No
+TC01326,Female,0,Yes,No,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,80.94,5349.74,No
+TC01327,Female,1,Yes,No,71,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),57.78,4014.69,No
+TC01328,Female,0,Yes,No,72,Yes,No phone service,Fiber optic,No,Yes,No,No,Yes,No,One year,No,Mailed check,82.24,5929.85,No
+TC01329,Male,0,Yes,Yes,54,No,No phone service,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,40.76,2190.43,Yes
+TC01330,Male,0,Yes,No,43,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),68.99,2958.05,Yes
+TC01331,Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,82.36,664.85,Yes
+TC01332,Female,0,No,Yes,28,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Two year,Yes,Bank transfer (automatic),80.03,2230.19,No
+TC01333,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),57.09,1948.59,No
+TC01334,Female,0,No,No,56,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),52.73,2951.94,Yes
+TC01335,Male,0,No,No,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,38.71,1573.28,Yes
+TC01336,Male,1,Yes,No,32,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),49.2,1589.65,No
+TC01337,Female,0,No,No,10,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),64.67,675.34,No
+TC01338,Female,1,No,No,52,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,57.43,2964.68,No
+TC01339,Male,0,No,No,31,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),86.4,2753.12,No
+TC01340,Male,0,No,No,2,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,82.53,218.48,Yes
+TC01341,Female,1,Yes,No,20,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,58.42,1202.16,Yes
+TC01342,Male,0,No,No,64,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),67.02,4322.55,Yes
+TC01343,Male,0,No,Yes,8,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,67.55,541.6,No
+TC01344,Male,0,Yes,No,29,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,74.49,2205.86,No
+TC01345,Female,0,No,No,37,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Bank transfer (automatic),65.78,2496.69,No
+TC01346,Male,0,Yes,No,6,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,78.01,500.38,Yes
+TC01347,Male,1,No,No,12,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,83.92,984.23,Yes
+TC01348,Female,1,No,No,68,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Electronic check,59.96,4075.69,No
+TC01349,Female,0,Yes,No,43,Yes,No phone service,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),62.29,2701.42,No
+TC01350,Male,0,No,Yes,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),30.54,491.61,No
+TC01351,Female,0,Yes,Yes,12,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,70.79,846.38,Yes
+TC01352,Female,0,No,Yes,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),34.74,1054.27,No
+TC01353,Female,0,No,No,52,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,80.77,4263.41,No
+TC01354,Male,1,No,No,53,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,76.3,4001.01,No
+TC01355,Male,1,No,No,14,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Electronic check,55.94,745.51,No
+TC01356,Female,0,Yes,No,52,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Two year,No,Electronic check,80.61,4138.63,No
+TC01357,Male,0,Yes,No,65,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,63.67,4100.81,No
+TC01358,Female,0,Yes,No,16,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),57.51,970.05,Yes
+TC01359,Male,0,Yes,No,1,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),67.81,119.04,Yes
+TC01360,Male,0,Yes,Yes,69,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),57.2,3943.84,No
+TC01361,Male,0,Yes,Yes,38,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),38.47,1481.71,No
+TC01362,Female,0,Yes,No,56,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,45.32,2537.5,No
+TC01363,Male,0,Yes,No,23,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,89.07,2000.93,Yes
+TC01364,Female,1,No,No,21,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Electronic check,49.62,1130.74,No
+TC01365,Male,0,Yes,Yes,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,38.83,676.27,No
+TC01366,Female,1,No,No,15,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,No,Two year,No,Credit card (automatic),85.96,1303.58,No
+TC01367,Female,0,Yes,No,34,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,One year,Yes,Electronic check,67.59,2263.82,No
+TC01368,Female,0,Yes,Yes,7,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,68.06,467.42,No
+TC01369,Male,0,No,No,61,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,One year,Yes,Mailed check,80.92,4908.42,Yes
+TC01370,Female,0,Yes,No,37,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),55.68,2064.06,No
+TC01371,Male,0,Yes,Yes,66,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Mailed check,91.62,6059.32,No
+TC01372,Female,0,No,No,36,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),62.51,2236.71,No
+TC01373,Female,1,Yes,Yes,22,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,Two year,No,Mailed check,53.08,1109.58,No
+TC01374,Male,0,Yes,No,37,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Two year,Yes,Mailed check,63.7,2442.18,No
+TC01375,Female,0,No,No,11,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,76.3,848.8,Yes
+TC01376,Male,0,Yes,Yes,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),100.37,6040.46,No
+TC01377,Male,0,No,No,52,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),32.6,1678.3,No
+TC01378,Female,0,Yes,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,33.91,276.62,No
+TC01379,Female,0,No,No,42,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,79.95,3354.57,No
+TC01380,Female,1,No,No,39,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,78.95,3066.12,No
+TC01381,Male,0,No,No,14,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,78.29,1124.44,No
+TC01382,Male,0,No,No,8,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,78.53,664.48,No
+TC01383,Female,0,Yes,No,55,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,52.39,2912.05,No
+TC01384,Female,0,No,No,19,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),74.15,1448.38,Yes
+TC01385,Female,1,Yes,No,37,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),86.68,3279.31,No
+TC01386,Female,0,No,No,18,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),88.36,1606.07,No
+TC01387,Male,0,No,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),49.69,2379.4,No
+TC01388,Male,0,Yes,No,3,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,One year,Yes,Credit card (automatic),78.02,253.81,No
+TC01389,Female,0,No,No,26,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),78.2,1957.2,No
+TC01390,Male,0,Yes,Yes,39,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Two year,Yes,Electronic check,61.75,2402.07,No
+TC01391,Female,0,No,No,32,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,54.65,1714.09,Yes
+TC01392,Female,0,No,No,44,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,69.28,3057.58,No
+TC01393,Male,0,Yes,Yes,13,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),73.88,928.8,Yes
+TC01394,Male,1,No,No,32,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,48.52,1576.87,Yes
+TC01395,Male,0,No,No,55,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,50.66,2825.54,No
+TC01396,Female,0,Yes,Yes,24,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,69.44,1714.7,No
+TC01397,Female,0,No,Yes,11,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),73.61,874.48,No
+TC01398,Female,1,Yes,No,61,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),78.92,4747.08,No
+TC01399,Female,0,No,No,56,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),74.34,4115.08,Yes
+TC01400,Male,0,Yes,Yes,49,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),45.85,2363.76,No
+TC01401,Male,0,No,No,58,Yes,No,DSL,No,No,No,No,No,Yes,Two year,Yes,Credit card (automatic),73.5,4303.38,No
+TC01402,Female,0,No,No,56,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,45.98,2583.86,No
+TC01403,Male,0,Yes,No,54,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Credit card (automatic),63.49,3429.74,No
+TC01404,Female,0,Yes,No,37,Yes,No,DSL,Yes,No,No,No,No,Yes,Two year,Yes,Bank transfer (automatic),56.93,2104.14,No
+TC01405,Male,0,No,No,1,Yes,Yes,DSL,No,Yes,No,No,No,No,One year,No,Electronic check,62.42,0.0,Yes
+TC01406,Female,1,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),39.01,1646.54,No
+TC01407,Female,0,Yes,Yes,19,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),85.01,1610.72,Yes
+TC01408,Male,0,Yes,No,56,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),31.01,1707.93,Yes
+TC01409,Female,0,Yes,Yes,34,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),54.79,1839.45,No
+TC01410,Female,0,No,No,66,Yes,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,69.48,4688.03,Yes
+TC01411,Female,0,Yes,Yes,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,46.45,1987.28,No
+TC01412,Female,0,No,No,40,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,74.2,2979.12,No
+TC01413,Female,1,No,Yes,67,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),74.69,5013.93,Yes
+TC01414,Female,0,No,No,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),43.13,1490.0,No
+TC01415,Male,0,Yes,Yes,27,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),87.23,2336.12,No
+TC01416,Male,0,Yes,No,27,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),61.71,1716.05,No
+TC01417,Female,1,No,No,63,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),69.74,4411.36,No
+TC01418,Female,0,No,Yes,55,Yes,No,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,55.96,3026.31,No
+TC01419,Male,0,Yes,No,11,Yes,No,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,69.84,763.94,Yes
+TC01420,Male,1,Yes,No,35,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Two year,Yes,Mailed check,50.15,1748.36,No
+TC01421,Male,0,Yes,Yes,27,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),25.8,687.87,Yes
+TC01422,Male,1,Yes,No,47,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,69.35,3279.82,No
+TC01423,Male,0,Yes,No,3,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),56.3,194.29,Yes
+TC01424,Female,0,No,No,52,Yes,Yes,DSL,No,Yes,No,No,Yes,No,Two year,No,Bank transfer (automatic),59.86,3133.39,No
+TC01425,Female,0,Yes,No,54,Yes,Yes,Fiber optic,No,No,No,No,No,No,Two year,Yes,Electronic check,88.63,4799.58,No
+TC01426,Male,1,No,Yes,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),37.15,597.83,No
+TC01427,Male,0,Yes,No,10,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),60.55,519.45,Yes
+TC01428,Female,0,Yes,No,45,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),57.49,2618.17,No
+TC01429,Male,0,No,No,18,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,38.62,714.69,No
+TC01430,Female,0,Yes,No,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,22.86,1515.09,No
+TC01431,Male,0,No,No,56,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,42.64,2399.06,Yes
+TC01432,Male,0,Yes,No,69,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,52.56,3652.56,No
+TC01433,Female,1,No,No,39,Yes,Yes,DSL,No,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),56.01,2231.24,No
+TC01434,Female,0,No,Yes,68,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),78.06,5328.49,Yes
+TC01435,Female,0,No,No,1,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),59.32,72.18,Yes
+TC01436,Male,0,Yes,Yes,21,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,37.38,822.85,No
+TC01437,Male,0,Yes,Yes,0,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),56.28,0.0,No
+TC01438,Female,0,Yes,Yes,49,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,77.4,3809.08,No
+TC01439,Female,0,No,No,37,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,51.76,1890.28,No
+TC01440,Male,0,Yes,Yes,20,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),44.37,931.81,No
+TC01441,Female,0,Yes,Yes,22,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),77.72,1645.45,No
+TC01442,Female,0,Yes,Yes,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),39.23,1837.25,No
+TC01443,Female,0,Yes,No,13,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),53.65,698.16,No
+TC01444,Male,0,Yes,No,37,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,94.57,3537.71,Yes
+TC01445,Male,0,Yes,Yes,44,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,45.21,1958.02,Yes
+TC01446,Female,0,Yes,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,34.02,581.94,No
+TC01447,Male,0,No,No,16,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),35.42,569.15,No
+TC01448,Male,1,Yes,Yes,25,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,57.08,1444.36,No
+TC01449,Female,0,Yes,No,43,Yes,Yes,DSL,Yes,Yes,No,No,No,No,One year,No,Electronic check,55.91,2362.23,No
+TC01450,Male,0,No,No,18,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,73.05,1340.35,No
+TC01451,Male,0,No,No,27,Yes,No,DSL,Yes,No,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),65.7,1700.06,No
+TC01452,Female,0,Yes,Yes,39,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),27.16,1032.53,No
+TC01453,Female,0,No,Yes,13,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Two year,No,Mailed check,68.85,832.54,No
+TC01454,Male,0,No,No,41,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Two year,No,Electronic check,85.84,3552.57,No
+TC01455,Male,0,No,No,10,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,One year,No,Bank transfer (automatic),76.57,781.71,Yes
+TC01456,Female,1,No,No,10,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,Two year,Yes,Bank transfer (automatic),79.79,816.14,Yes
+TC01457,Male,0,No,No,17,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,53.58,969.79,Yes
+TC01458,Male,0,Yes,Yes,20,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,28.09,549.16,No
+TC01459,Female,0,Yes,No,2,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),65.19,154.76,No
+TC01460,Male,1,No,No,70,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),85.9,6015.64,No
+TC01461,Female,0,No,No,22,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,80.43,1766.01,No
+TC01462,Male,0,Yes,Yes,58,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),35.18,2092.71,No
+TC01463,Female,0,Yes,Yes,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),29.48,1999.48,No
+TC01464,Female,0,No,No,58,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Two year,Yes,Electronic check,73.29,4233.56,Yes
+TC01465,Male,1,Yes,No,60,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,72.07,4357.55,No
+TC01466,Female,0,No,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),18.0,138.76,No
+TC01467,Male,0,No,No,27,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Mailed check,60.55,1648.09,No
+TC01468,Female,0,No,No,54,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,No,Electronic check,84.7,4583.69,Yes
+TC01469,Male,0,No,No,42,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),75.61,3162.3,Yes
+TC01470,Male,1,No,No,0,No,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,82.92,0.0,Yes
+TC01471,Male,0,No,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),23.96,1043.75,No
+TC01472,Female,0,No,No,58,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,27.05,1541.11,No
+TC01473,Female,1,No,No,60,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,76.2,4562.34,Yes
+TC01474,Male,1,No,No,28,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,82.19,2292.51,Yes
+TC01475,Male,0,Yes,No,17,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),20.89,323.78,No
+TC01476,Male,0,No,No,22,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),38.42,854.85,No
+TC01477,Female,0,Yes,No,21,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),82.23,1725.06,No
+TC01478,Male,0,No,No,25,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,35.93,869.59,No
+TC01479,Female,0,No,No,22,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),53.95,1192.87,No
+TC01480,Female,0,Yes,No,33,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,18.0,592.68,No
+TC01481,Male,1,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),70.92,178.95,Yes
+TC01482,Female,1,Yes,No,20,No,No phone service,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,54.96,1045.58,Yes
+TC01483,Male,1,No,No,22,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,One year,No,Bank transfer (automatic),78.75,1700.28,No
+TC01484,Female,1,Yes,No,11,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,90.86,1028.47,No
+TC01485,Female,0,Yes,No,64,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Two year,Yes,Electronic check,77.39,4927.37,No
+TC01486,Female,0,No,No,49,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),60.57,2931.79,No
+TC01487,Male,0,No,No,66,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Electronic check,57.57,3776.01,No
+TC01488,Male,0,Yes,Yes,40,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,73.25,2925.96,Yes
+TC01489,Male,0,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Credit card (automatic),70.09,556.83,No
+TC01490,Male,0,No,No,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,36.18,2379.48,Yes
+TC01491,Male,0,No,Yes,33,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),62.92,2035.22,No
+TC01492,Male,0,No,No,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),73.98,3655.95,Yes
+TC01493,Male,0,Yes,No,27,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),40.21,1138.72,No
+TC01494,Female,0,Yes,Yes,36,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,36.89,1251.62,No
+TC01495,Female,0,Yes,No,35,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),69.01,2353.21,No
+TC01496,Female,0,No,No,20,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Bank transfer (automatic),45.6,952.11,No
+TC01497,Female,0,Yes,No,40,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,33.36,1397.19,No
+TC01498,Male,1,Yes,No,53,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),26.85,1337.88,No
+TC01499,Female,0,No,No,1,Yes,No phone service,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Credit card (automatic),60.11,92.73,No
+TC01500,Female,0,No,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,37.17,400.05,No
+TC01501,Male,0,No,No,61,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,81.8,4955.3,Yes
+TC01502,Male,0,Yes,Yes,41,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Two year,No,Bank transfer (automatic),87.35,3644.54,No
+TC01503,Male,0,No,No,71,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,27.09,1916.27,No
+TC01504,Female,0,Yes,No,44,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),70.15,3099.19,No
+TC01505,Female,0,Yes,No,47,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,55.3,2570.33,No
+TC01506,Male,0,No,No,65,No,No phone service,DSL,No,No,No,Yes,No,No,One year,Yes,Electronic check,41.68,2749.24,No
+TC01507,Female,0,Yes,No,48,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),61.54,2987.3,No
+TC01508,Female,1,No,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),28.09,743.15,No
+TC01509,Female,0,No,No,38,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,84.94,3285.34,No
+TC01510,Male,0,No,No,17,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Two year,Yes,Credit card (automatic),82.21,1397.2,No
+TC01511,Male,0,Yes,No,24,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,59.73,1557.86,No
+TC01512,Male,0,Yes,No,49,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,34.18,1728.85,No
+TC01513,Male,1,Yes,No,10,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Mailed check,68.04,702.02,No
+TC01514,Male,1,Yes,No,49,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,70.46,3412.65,Yes
+TC01515,Female,0,Yes,No,42,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),66.32,2724.24,Yes
+TC01516,Male,0,Yes,No,22,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,70.12,1484.84,No
+TC01517,Female,0,No,No,3,Yes,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,55.25,128.4,No
+TC01518,Female,0,No,No,51,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,73.96,3827.05,Yes
+TC01519,Male,1,No,No,60,Yes,No,DSL,No,Yes,No,No,No,Yes,Two year,No,Credit card (automatic),59.97,3617.68,No
+TC01520,Female,0,Yes,No,53,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),71.05,3741.12,No
+TC01521,Female,0,Yes,No,30,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,72.46,2168.37,No
+TC01522,Female,0,Yes,Yes,47,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,47.21,2208.56,No
+TC01523,Male,0,Yes,No,30,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Credit card (automatic),82.89,2518.7,No
+TC01524,Female,0,Yes,No,26,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,61.85,1572.95,No
+TC01525,Female,0,No,No,23,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),68.65,1592.94,No
+TC01526,Male,0,Yes,Yes,15,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),77.39,1172.85,Yes
+TC01527,Female,0,Yes,Yes,70,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),64.24,4462.85,No
+TC01528,Male,0,No,No,48,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,87.96,4285.6,No
+TC01529,Male,1,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,63.87,754.62,No
+TC01530,Male,1,No,Yes,63,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Two year,Yes,Electronic check,81.3,5082.19,No
+TC01531,Female,0,Yes,Yes,11,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,60.95,704.57,Yes
+TC01532,Female,0,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,25.69,1106.85,No
+TC01533,Female,0,Yes,Yes,12,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),65.51,802.46,No
+TC01534,Male,1,Yes,No,26,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,38.33,949.19,Yes
+TC01535,Female,0,No,No,48,Yes,No phone service,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,50.42,2452.66,Yes
+TC01536,Female,0,No,No,72,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,94.43,6885.86,No
+TC01537,Female,0,Yes,No,72,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Two year,No,Mailed check,60.86,4331.41,No
+TC01538,Male,0,No,No,65,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),64.55,4209.92,Yes
+TC01539,Female,0,Yes,Yes,17,Yes,No,Fiber optic,No,No,No,No,Yes,No,One year,No,Electronic check,77.2,1280.99,No
+TC01540,Male,0,Yes,No,6,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),84.69,615.72,No
+TC01541,Female,0,Yes,No,66,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),18.0,1237.59,Yes
+TC01542,Female,0,No,No,67,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,No,Electronic check,39.38,2649.74,Yes
+TC01543,Female,0,Yes,Yes,20,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),35.63,663.49,No
+TC01544,Male,0,No,No,1,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,One year,Yes,Mailed check,87.2,47.76,No
+TC01545,Female,0,Yes,No,47,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,91.99,4353.38,No
+TC01546,Female,0,No,No,5,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,One year,No,Credit card (automatic),71.27,301.85,Yes
+TC01547,Male,0,No,No,2,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),58.46,63.68,No
+TC01548,Male,0,Yes,Yes,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,30.47,2072.31,No
+TC01549,Male,1,Yes,No,36,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,38.7,1398.54,No
+TC01550,Male,0,Yes,No,8,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,51.76,429.28,No
+TC01551,Female,1,No,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,49.3,2299.52,No
+TC01552,Male,0,Yes,Yes,26,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),79.74,2110.05,No
+TC01553,Female,0,No,No,39,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,72.45,2791.08,No
+TC01554,Male,0,Yes,Yes,65,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),33.07,2174.62,No
+TC01555,Male,0,No,No,17,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),59.43,1018.87,No
+TC01556,Male,0,No,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,34.4,1640.83,No
+TC01557,Male,0,No,No,60,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,No,Credit card (automatic),63.66,3866.88,No
+TC01558,Male,0,No,No,30,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Bank transfer (automatic),71.76,2134.59,No
+TC01559,Male,0,Yes,No,70,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,77.49,5397.86,Yes
+TC01560,Male,0,No,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Mailed check,63.61,1967.98,No
+TC01561,Female,0,Yes,No,33,Yes,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),57.09,1803.21,Yes
+TC01562,Female,0,Yes,No,64,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),79.55,5084.16,Yes
+TC01563,Female,0,No,No,46,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,Two year,Yes,Electronic check,96.74,4445.74,No
+TC01564,Male,0,No,No,63,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),48.01,2981.19,No
+TC01565,Female,1,No,No,57,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,One year,No,Credit card (automatic),53.57,3018.65,No
+TC01566,Female,0,Yes,No,52,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),88.7,4673.34,Yes
+TC01567,Female,0,Yes,No,17,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,64.68,1134.59,No
+TC01568,Male,0,Yes,No,29,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,23.94,643.8,No
+TC01569,Male,0,No,No,63,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),45.42,2843.77,No
+TC01570,Male,0,Yes,No,44,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,75.87,3354.52,No
+TC01571,Female,0,Yes,Yes,20,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,47.81,931.14,Yes
+TC01572,Female,0,Yes,Yes,23,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Bank transfer (automatic),69.97,1576.96,No
+TC01573,Female,0,Yes,No,56,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Mailed check,91.62,5117.19,No
+TC01574,Female,0,Yes,Yes,13,Yes,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),71.39,971.7,No
+TC01575,Female,0,Yes,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Electronic check,57.96,510.94,No
+TC01576,Male,0,No,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),77.98,4259.48,Yes
+TC01577,Male,0,No,No,21,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Electronic check,59.32,1264.14,No
+TC01578,Male,0,Yes,No,55,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),83.08,4569.14,Yes
+TC01579,Female,0,No,Yes,38,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,78.01,2924.05,Yes
+TC01580,Female,0,No,No,72,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,Yes,Electronic check,88.45,6356.52,No
+TC01581,Male,0,Yes,No,38,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),69.97,2608.29,Yes
+TC01582,Female,0,Yes,No,63,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),71.19,4531.49,No
+TC01583,Female,0,Yes,No,62,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Two year,Yes,Electronic check,93.91,5884.52,No
+TC01584,Female,0,Yes,No,15,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,37.29,542.93,No
+TC01585,Male,0,No,No,72,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),59.52,4259.48,No
+TC01586,Male,0,No,No,54,Yes,Yes,DSL,No,No,No,No,No,No,One year,Yes,Credit card (automatic),71.06,3879.42,Yes
+TC01587,Female,1,Yes,No,7,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,90.93,685.16,Yes
+TC01588,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),38.94,0.0,No
+TC01589,Male,0,Yes,Yes,19,No,No phone service,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,73.17,1384.31,Yes
+TC01590,Male,0,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),70.63,68.27,Yes
+TC01591,Male,0,No,No,26,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,67.36,1720.53,No
+TC01592,Female,1,Yes,No,72,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,18.0,1311.44,No
+TC01593,Male,1,Yes,Yes,34,Yes,Yes,DSL,No,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),49.74,1663.16,No
+TC01594,Female,1,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,78.49,56.88,Yes
+TC01595,Male,0,No,No,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),33.56,1204.11,No
+TC01596,Male,0,Yes,No,15,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,81.86,1168.34,No
+TC01597,Male,0,Yes,No,62,Yes,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,58.88,3568.3,No
+TC01598,Male,0,Yes,No,6,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),76.0,492.73,No
+TC01599,Male,0,No,No,56,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),78.9,4388.79,No
+TC01600,Male,0,No,No,32,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,49.43,1667.15,No
+TC01601,Male,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),81.09,159.96,No
+TC01602,Male,0,No,No,49,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,67.51,3287.73,No
+TC01603,Female,0,No,No,33,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),63.22,2179.82,No
+TC01604,Male,0,No,No,56,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,55.58,3149.98,No
+TC01605,Male,0,Yes,Yes,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,36.6,1621.19,No
+TC01606,Female,0,No,No,57,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,58.97,3258.02,Yes
+TC01607,Male,0,Yes,Yes,33,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),54.74,1833.95,No
+TC01608,Male,0,Yes,Yes,0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),66.49,1.25,No
+TC01609,Male,0,No,No,9,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),70.71,653.64,Yes
+TC01610,Male,0,No,No,33,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,69.67,2289.96,No
+TC01611,Female,0,No,No,29,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Two year,Yes,Electronic check,81.59,2320.36,No
+TC01612,Male,0,Yes,No,57,Yes,No phone service,Fiber optic,No,No,No,Yes,No,No,Two year,No,Electronic check,69.22,3928.46,No
+TC01613,Female,0,No,No,30,Yes,No phone service,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),72.84,2213.47,Yes
+TC01614,Male,0,No,No,62,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,32.6,2007.02,Yes
+TC01615,Male,0,Yes,No,13,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),89.79,1152.85,No
+TC01616,Female,0,Yes,No,28,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Two year,Yes,Mailed check,80.26,2186.5,No
+TC01617,Female,0,No,No,55,No,No phone service,Fiber optic,No,Yes,Yes,No,No,No,Two year,Yes,Credit card (automatic),70.47,3879.5,No
+TC01618,Female,0,Yes,Yes,9,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Two year,No,Mailed check,91.67,780.55,No
+TC01619,Female,0,No,No,23,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),49.3,1170.64,Yes
+TC01620,Female,0,Yes,No,54,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),89.62,4810.12,No
+TC01621,Female,0,Yes,Yes,42,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),46.11,1924.79,No
+TC01622,Female,1,No,No,56,Yes,No phone service,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),63.01,3615.12,No
+TC01623,Female,0,Yes,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),31.6,1156.94,Yes
+TC01624,Male,0,No,No,62,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),21.06,1288.1,No
+TC01625,Female,1,No,No,64,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,67.17,4322.3,No
+TC01626,Female,0,Yes,No,71,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,18.0,1206.59,No
+TC01627,Female,0,No,No,8,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),51.75,464.03,Yes
+TC01628,Male,1,No,No,43,No,No phone service,DSL,Yes,No,Yes,No,No,No,Two year,No,Bank transfer (automatic),50.3,2202.66,No
+TC01629,Female,0,No,No,8,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,72.94,604.5,Yes
+TC01630,Male,0,No,Yes,16,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,83.88,1207.0,No
+TC01631,Female,0,No,No,21,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),79.39,1656.81,Yes
+TC01632,Female,0,No,No,47,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,23.46,1051.71,Yes
+TC01633,Female,0,Yes,No,31,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),50.19,1600.85,No
+TC01634,Female,0,No,No,63,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),57.94,3692.32,No
+TC01635,Male,0,No,Yes,21,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,73.02,1548.94,No
+TC01636,Female,0,No,No,45,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,52.08,2295.48,No
+TC01637,Female,0,No,No,55,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,95.26,5299.07,No
+TC01638,Male,0,Yes,No,71,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,53.2,3766.71,No
+TC01639,Male,0,No,No,17,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),56.21,1027.78,No
+TC01640,Male,1,No,No,53,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),82.6,4388.42,Yes
+TC01641,Male,0,Yes,Yes,6,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),68.88,433.55,No
+TC01642,Male,0,Yes,No,39,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,67.81,2626.18,No
+TC01643,Female,0,No,No,30,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),60.55,1872.78,No
+TC01644,Male,0,No,Yes,69,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,39.96,2781.58,No
+TC01645,Female,0,No,No,56,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),70.26,3992.28,No
+TC01646,Female,0,Yes,No,67,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,73.59,4937.63,No
+TC01647,Male,0,Yes,No,62,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),52.32,3241.96,No
+TC01648,Male,1,No,No,29,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),22.74,683.27,No
+TC01649,Male,1,No,No,53,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Two year,No,Electronic check,54.05,2922.35,No
+TC01650,Female,0,No,No,2,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),91.85,224.37,Yes
+TC01651,Male,0,No,No,40,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,78.44,3143.13,Yes
+TC01652,Female,0,No,No,3,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,72.85,144.26,Yes
+TC01653,Male,0,No,No,52,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),98.77,5168.46,Yes
+TC01654,Male,0,No,No,70,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Mailed check,73.96,5119.65,No
+TC01655,Male,1,No,Yes,49,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,92.15,4516.75,No
+TC01656,Male,0,No,No,61,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,59.22,3607.79,No
+TC01657,Male,0,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,82.93,1353.1,No
+TC01658,Female,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),35.05,2538.5,No
+TC01659,Female,1,No,Yes,40,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),82.65,3392.17,Yes
+TC01660,Female,0,No,No,49,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,60.0,2927.5,Yes
+TC01661,Male,0,No,No,56,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,76.35,4306.24,No
+TC01662,Female,0,Yes,No,46,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),86.77,4085.65,No
+TC01663,Female,1,No,No,23,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),55.81,1318.13,No
+TC01664,Male,0,Yes,Yes,44,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,67.6,2948.61,No
+TC01665,Male,0,No,No,47,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),83.27,3923.17,No
+TC01666,Male,0,No,No,62,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,68.76,4282.35,No
+TC01667,Male,1,No,No,35,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,Yes,Electronic check,49.7,1796.85,No
+TC01668,Male,0,No,No,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),31.72,1190.48,No
+TC01669,Female,0,Yes,No,36,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),76.65,2648.6,No
+TC01670,Male,1,Yes,No,8,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,64.99,485.67,No
+TC01671,Male,0,No,No,6,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),53.5,318.2,No
+TC01672,Male,0,No,No,1,No,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),77.44,36.83,Yes
+TC01673,Female,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),81.85,3780.8,No
+TC01674,Male,0,Yes,No,30,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),74.2,2196.98,Yes
+TC01675,Male,0,Yes,No,63,Yes,No,DSL,Yes,No,Yes,No,No,No,Two year,No,Mailed check,56.42,3554.32,No
+TC01676,Male,0,Yes,Yes,51,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),63.38,3211.37,Yes
+TC01677,Female,0,Yes,No,10,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,83.04,790.52,Yes
+TC01678,Male,1,Yes,Yes,7,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,67.64,475.14,Yes
+TC01679,Male,0,No,Yes,26,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,33.92,895.64,No
+TC01680,Male,0,No,No,67,Yes,No,DSL,No,Yes,Yes,No,No,No,Two year,No,Credit card (automatic),42.83,2850.87,No
+TC01681,Female,0,Yes,Yes,3,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,41.33,178.86,Yes
+TC01682,Male,0,Yes,No,13,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,75.17,979.52,Yes
+TC01683,Male,0,Yes,No,2,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),92.46,150.06,Yes
+TC01684,Female,1,No,No,30,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,56.99,1664.72,No
+TC01685,Male,1,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,73.03,5249.64,Yes
+TC01686,Female,0,No,No,49,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Two year,Yes,Electronic check,46.92,2343.62,Yes
+TC01687,Male,0,No,No,36,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),68.84,2445.29,Yes
+TC01688,Female,0,Yes,No,10,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,No,Electronic check,73.24,756.24,No
+TC01689,Male,0,No,No,25,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,46.42,1164.28,No
+TC01690,Male,0,No,Yes,38,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),89.11,3465.91,Yes
+TC01691,Male,0,Yes,No,20,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),65.55,1326.61,No
+TC01692,Male,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),86.78,4397.85,No
+TC01693,Male,0,No,No,71,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,60.86,4350.51,No
+TC01694,Female,0,No,No,15,Yes,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Credit card (automatic),44.38,696.5,No
+TC01695,Female,0,No,No,18,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),32.25,564.62,No
+TC01696,Male,0,No,No,9,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),50.07,404.07,No
+TC01697,Male,0,Yes,Yes,52,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,76.47,3997.88,No
+TC01698,Female,0,No,Yes,33,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,39.61,1309.67,Yes
+TC01699,Female,0,No,No,20,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),81.18,1562.94,No
+TC01700,Male,0,Yes,No,16,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,60.73,981.86,Yes
+TC01701,Male,0,No,No,5,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,47.22,210.62,No
+TC01702,Female,0,No,No,34,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,68.98,2284.7,Yes
+TC01703,Female,0,No,No,49,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,55.09,2685.33,No
+TC01704,Female,0,Yes,Yes,17,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),78.12,1379.36,No
+TC01705,Male,1,Yes,Yes,0,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,77.62,48.32,Yes
+TC01706,Female,0,No,No,34,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),60.87,2107.45,No
+TC01707,Male,0,No,No,49,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),60.44,2972.33,Yes
+TC01708,Female,0,No,No,25,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,69.87,1770.58,No
+TC01709,Female,1,No,No,18,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,78.57,1418.21,Yes
+TC01710,Male,0,Yes,No,11,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,48.32,487.32,Yes
+TC01711,Male,1,Yes,No,54,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,31.71,1676.12,Yes
+TC01712,Male,0,Yes,No,62,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),75.37,4648.65,No
+TC01713,Male,0,Yes,No,56,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),42.42,2431.57,No
+TC01714,Male,0,Yes,No,37,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Credit card (automatic),77.48,2909.83,No
+TC01715,Male,0,No,No,52,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),35.53,1804.36,No
+TC01716,Male,0,Yes,No,28,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,61.38,1720.78,No
+TC01717,Female,0,Yes,No,1,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),84.43,68.33,No
+TC01718,Female,0,No,No,26,Yes,Yes,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,61.53,1593.58,Yes
+TC01719,Male,1,Yes,No,51,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Mailed check,53.95,2730.01,No
+TC01720,Female,0,Yes,No,47,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,91.96,4378.35,Yes
+TC01721,Male,0,No,No,72,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,82.97,5973.08,Yes
+TC01722,Male,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),40.38,2916.01,No
+TC01723,Female,0,No,No,17,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),86.44,1478.45,Yes
+TC01724,Male,0,No,No,0,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,49.11,0.0,Yes
+TC01725,Female,1,Yes,No,20,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,54.31,1090.54,No
+TC01726,Male,0,No,No,63,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),65.3,4156.39,No
+TC01727,Female,0,No,No,59,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),47.54,2863.77,Yes
+TC01728,Female,0,No,No,7,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),60.27,375.98,No
+TC01729,Male,0,No,No,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,29.63,265.19,Yes
+TC01730,Male,0,No,No,41,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,97.03,3980.72,No
+TC01731,Female,0,No,No,48,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),67.33,3276.21,Yes
+TC01732,Male,0,No,No,71,Yes,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),45.25,3227.13,No
+TC01733,Male,1,Yes,No,55,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,61.86,3429.51,Yes
+TC01734,Female,1,No,No,15,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Two year,Yes,Mailed check,71.93,1024.54,No
+TC01735,Male,1,No,No,2,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,77.77,132.66,No
+TC01736,Male,0,No,No,46,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Bank transfer (automatic),73.99,3315.7,Yes
+TC01737,Female,0,Yes,No,40,Yes,Yes,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,58.72,2343.1,Yes
+TC01738,Male,1,Yes,No,67,Yes,No,DSL,No,No,Yes,No,No,No,One year,Yes,Bank transfer (automatic),52.26,3414.85,No
+TC01739,Male,0,No,No,42,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),76.62,3271.35,No
+TC01740,Male,0,No,No,36,No,No phone service,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,72.77,2681.91,Yes
+TC01741,Male,0,Yes,Yes,22,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,69.53,1535.29,No
+TC01742,Male,0,Yes,No,6,Yes,Yes,DSL,Yes,No,No,No,No,Yes,One year,Yes,Electronic check,58.18,288.58,No
+TC01743,Female,0,Yes,No,63,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,56.46,3572.01,No
+TC01744,Male,1,No,Yes,60,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),55.3,3392.37,No
+TC01745,Female,0,Yes,No,11,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Credit card (automatic),88.23,989.56,Yes
+TC01746,Male,0,No,No,51,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,53.21,2761.11,No
+TC01747,Female,0,Yes,No,26,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,One year,No,Credit card (automatic),57.91,1486.25,No
+TC01748,Female,0,Yes,Yes,31,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,One year,Yes,Electronic check,62.51,1902.96,No
+TC01749,Female,0,Yes,Yes,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),25.53,1554.5,No
+TC01750,Male,0,No,Yes,61,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),35.07,2062.2,No
+TC01751,Female,0,No,No,13,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Two year,Yes,Electronic check,59.7,866.66,No
+TC01752,Female,0,No,No,22,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,59.63,1317.45,No
+TC01753,Male,0,No,No,59,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),53.42,3186.45,No
+TC01754,Male,1,Yes,No,66,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,92.58,6091.82,No
+TC01755,Female,0,No,No,5,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),61.95,248.03,Yes
+TC01756,Male,0,Yes,Yes,60,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,75.7,4599.03,No
+TC01757,Female,0,Yes,Yes,35,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,70.31,2415.89,No
+TC01758,Female,0,Yes,No,43,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),45.16,1955.83,No
+TC01759,Male,0,Yes,Yes,5,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,74.23,388.87,No
+TC01760,Female,0,No,No,49,No,No phone service,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,68.24,3346.72,No
+TC01761,Male,0,No,No,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,85.42,4154.2,No
+TC01762,Male,0,No,Yes,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,18.0,858.01,No
+TC01763,Male,0,No,No,57,Yes,No,DSL,No,Yes,No,No,No,Yes,Two year,No,Electronic check,52.66,2963.62,No
+TC01764,Female,0,No,Yes,69,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,50.6,3523.77,No
+TC01765,Male,0,Yes,No,62,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,79.29,4938.84,No
+TC01766,Male,0,Yes,No,54,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,85.68,4625.86,No
+TC01767,Female,0,Yes,Yes,71,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),81.85,5788.62,Yes
+TC01768,Female,0,No,No,49,Yes,No,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),54.45,2752.34,Yes
+TC01769,Female,0,No,No,49,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,44.07,2107.35,No
+TC01770,Male,0,Yes,No,39,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),58.19,2207.63,No
+TC01771,Male,1,No,No,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),81.32,4550.64,No
+TC01772,Female,0,No,No,5,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,No,Credit card (automatic),87.15,425.43,Yes
+TC01773,Male,0,No,No,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),37.59,1397.14,Yes
+TC01774,Male,1,No,No,31,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,83.26,2606.9,No
+TC01775,Male,0,No,No,66,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,46.65,3080.08,Yes
+TC01776,Female,0,No,No,5,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),53.41,287.06,Yes
+TC01777,Female,1,No,Yes,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,91.1,4209.89,Yes
+TC01778,Female,0,Yes,No,13,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),58.96,850.62,No
+TC01779,Male,0,No,No,64,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,One year,Yes,Bank transfer (automatic),81.33,5215.25,No
+TC01780,Male,0,Yes,Yes,62,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,70.85,4365.46,Yes
+TC01781,Male,0,No,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,37.61,647.31,No
+TC01782,Female,0,Yes,No,63,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),59.22,3626.11,Yes
+TC01783,Female,1,Yes,Yes,36,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,80.52,2897.41,No
+TC01784,Female,1,Yes,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),46.46,3295.92,No
+TC01785,Male,0,Yes,No,53,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),18.0,978.09,No
+TC01786,Female,0,Yes,No,2,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,51.62,115.18,Yes
+TC01787,Male,0,Yes,Yes,14,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,49.65,721.07,No
+TC01788,Male,1,Yes,Yes,29,Yes,Yes,DSL,No,No,No,No,Yes,No,One year,No,Bank transfer (automatic),65.11,1932.32,Yes
+TC01789,Female,0,Yes,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),38.33,631.96,No
+TC01790,Female,1,No,No,9,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,72.83,673.37,No
+TC01791,Female,0,No,No,71,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,80.06,5671.62,Yes
+TC01792,Male,0,No,Yes,63,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,81.28,5028.1,Yes
+TC01793,Male,0,Yes,Yes,31,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,85.7,2695.83,No
+TC01794,Female,0,Yes,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,86.49,1317.96,No
+TC01795,Female,0,No,No,13,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,43.64,573.43,No
+TC01796,Male,0,Yes,No,66,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),68.09,4466.42,No
+TC01797,Female,1,Yes,No,24,Yes,Yes,DSL,No,Yes,No,No,No,No,Two year,Yes,Electronic check,67.08,1648.53,No
+TC01798,Female,0,No,No,0,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Credit card (automatic),65.78,0.0,Yes
+TC01799,Female,0,No,No,29,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),62.49,1810.83,No
+TC01800,Female,0,Yes,Yes,33,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),91.73,3024.85,No
+TC01801,Female,0,No,No,45,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),54.76,2482.19,No
+TC01802,Male,1,Yes,Yes,24,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,93.5,2198.05,Yes
+TC01803,Male,0,No,No,67,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),51.74,3489.08,No
+TC01804,Male,0,Yes,Yes,46,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Mailed check,54.73,2488.74,No
+TC01805,Male,0,Yes,Yes,72,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,69.23,4957.13,No
+TC01806,Male,1,No,No,26,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),72.41,1918.07,Yes
+TC01807,Female,0,Yes,No,47,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Electronic check,74.76,3473.92,No
+TC01808,Female,1,No,No,26,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,54.11,1442.2,Yes
+TC01809,Male,0,Yes,No,51,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),65.54,3346.59,Yes
+TC01810,Female,0,No,No,54,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,94.86,5056.51,No
+TC01811,Male,1,No,No,23,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Electronic check,59.7,1427.68,No
+TC01812,Male,1,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,81.17,5531.97,No
+TC01813,Female,1,No,Yes,62,Yes,No,Fiber optic,No,No,No,No,No,No,One year,Yes,Electronic check,81.6,5074.97,No
+TC01814,Male,0,Yes,No,65,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),67.42,4422.59,No
+TC01815,Male,0,No,No,15,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,75.99,1199.82,No
+TC01816,Female,0,Yes,No,52,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,79.29,4131.12,No
+TC01817,Female,0,No,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),28.5,224.19,No
+TC01818,Male,1,No,No,7,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),82.68,593.61,Yes
+TC01819,Male,1,No,No,71,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),59.71,4225.7,Yes
+TC01820,Female,0,No,No,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,31.53,283.49,No
+TC01821,Male,0,No,No,63,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),81.99,5173.97,No
+TC01822,Female,0,Yes,No,31,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),95.77,3024.03,No
+TC01823,Male,0,No,Yes,22,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),37.98,858.89,No
+TC01824,Male,0,No,No,5,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,61.39,264.25,Yes
+TC01825,Female,0,Yes,No,49,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,47.41,2366.99,Yes
+TC01826,Male,0,No,No,52,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Two year,Yes,Electronic check,72.4,3752.42,No
+TC01827,Male,0,Yes,Yes,34,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),70.58,2316.04,No
+TC01828,Male,0,Yes,No,59,Yes,Yes,DSL,Yes,No,Yes,No,No,No,One year,Yes,Electronic check,75.92,4520.0,No
+TC01829,Female,0,Yes,No,23,Yes,No,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),56.23,1255.47,No
+TC01830,Female,1,Yes,No,40,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,46.04,1912.83,No
+TC01831,Female,0,No,No,20,Yes,No,DSL,No,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),48.14,1008.71,No
+TC01832,Female,0,No,No,42,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Two year,No,Electronic check,63.5,2657.89,No
+TC01833,Female,0,No,No,9,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Mailed check,70.13,649.54,No
+TC01834,Male,0,No,No,34,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,One year,Yes,Mailed check,75.57,2666.34,No
+TC01835,Male,1,Yes,No,40,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),54.17,2206.8,Yes
+TC01836,Male,0,Yes,No,40,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Mailed check,67.1,2693.53,No
+TC01837,Female,0,Yes,Yes,32,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,72.27,2428.21,Yes
+TC01838,Female,1,No,No,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),18.0,832.7,No
+TC01839,Male,1,Yes,Yes,37,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),44.56,1671.99,No
+TC01840,Female,0,No,No,20,Yes,No,DSL,No,No,Yes,No,No,No,One year,No,Credit card (automatic),62.04,1203.35,No
+TC01841,Male,0,No,No,15,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),78.13,1104.96,No
+TC01842,Male,0,No,No,47,Yes,Yes,DSL,No,No,No,No,No,Yes,One year,No,Mailed check,50.33,2354.0,No
+TC01843,Female,0,No,No,68,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),84.93,5776.78,Yes
+TC01844,Female,0,Yes,No,54,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Mailed check,47.1,2556.57,No
+TC01845,Female,0,No,No,46,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),81.5,3692.21,No
+TC01846,Female,1,No,No,67,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),31.96,2167.75,No
+TC01847,Female,0,No,No,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,30.07,1921.33,No
+TC01848,Male,0,No,No,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,32.18,1182.83,No
+TC01849,Male,0,No,No,7,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),61.04,464.68,No
+TC01850,Male,0,No,No,46,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),68.17,3120.0,No
+TC01851,Male,0,Yes,Yes,45,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),82.04,3653.25,Yes
+TC01852,Male,1,No,No,20,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),45.03,962.35,No
+TC01853,Female,1,No,No,62,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.34,1544.0,No
+TC01854,Female,0,Yes,No,63,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,18.65,1181.03,Yes
+TC01855,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),74.59,1848.9,No
+TC01856,Female,0,Yes,No,34,Yes,No,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,61.84,2105.89,No
+TC01857,Female,0,No,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),29.92,394.06,No
+TC01858,Male,1,Yes,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),30.92,361.89,No
+TC01859,Male,0,Yes,Yes,19,Yes,No phone service,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Electronic check,83.2,1576.49,No
+TC01860,Male,0,No,No,26,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),30.74,830.11,No
+TC01861,Male,0,Yes,Yes,19,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),74.2,1465.39,No
+TC01862,Female,0,Yes,No,11,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,24.38,269.12,No
+TC01863,Male,0,Yes,Yes,32,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),62.89,2061.0,No
+TC01864,Male,0,No,No,45,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),40.07,1794.58,No
+TC01865,Male,0,No,No,23,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,67.16,1513.42,No
+TC01866,Male,0,No,No,38,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,Two year,No,Electronic check,44.69,1645.97,No
+TC01867,Male,0,Yes,Yes,19,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,58.27,1086.88,Yes
+TC01868,Female,0,No,No,51,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),63.49,3187.24,Yes
+TC01869,Female,0,Yes,No,47,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,57.79,2796.51,Yes
+TC01870,Female,1,No,No,70,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,51.34,3611.37,No
+TC01871,Female,0,Yes,Yes,3,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),72.11,212.51,No
+TC01872,Female,0,Yes,Yes,62,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),20.71,1352.9,No
+TC01873,Female,0,Yes,Yes,24,Yes,No phone service,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),48.88,1121.03,Yes
+TC01874,Male,0,No,No,4,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),40.5,156.51,Yes
+TC01875,Male,0,No,No,50,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,68.34,3496.99,No
+TC01876,Male,0,Yes,Yes,12,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,81.04,966.72,No
+TC01877,Male,1,No,No,12,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),61.98,841.63,No
+TC01878,Male,0,No,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Mailed check,82.81,5910.93,No
+TC01879,Male,0,Yes,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,33.23,583.92,No
+TC01880,Female,0,No,No,39,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),70.22,2791.98,No
+TC01881,Male,0,No,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,35.05,490.76,No
+TC01882,Female,0,Yes,No,9,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),66.56,579.51,Yes
+TC01883,Female,0,No,No,0,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),82.57,0.0,No
+TC01884,Male,0,Yes,No,1,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),73.71,34.23,No
+TC01885,Male,0,No,Yes,34,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,51.52,1749.04,Yes
+TC01886,Female,1,Yes,No,31,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,One year,No,Electronic check,55.45,1718.77,No
+TC01887,Female,0,No,No,2,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),86.21,239.99,Yes
+TC01888,Female,1,Yes,No,25,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,Yes,Credit card (automatic),84.9,2146.23,No
+TC01889,Female,0,No,No,19,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,31.4,691.1,No
+TC01890,Female,0,No,No,41,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,77.29,3082.51,Yes
+TC01891,Male,0,Yes,No,72,Yes,No,DSL,No,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),39.3,2780.92,No
+TC01892,Male,0,No,No,50,Yes,No,DSL,No,Yes,Yes,No,No,No,One year,No,Electronic check,51.93,2582.29,No
+TC01893,Male,0,No,No,67,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,32.03,2205.71,No
+TC01894,Male,0,No,No,14,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,71.83,1001.24,Yes
+TC01895,Male,0,Yes,No,15,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,64.51,908.94,Yes
+TC01896,Male,1,No,No,54,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,81.48,4390.12,Yes
+TC01897,Female,0,Yes,No,22,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,73.04,1558.98,No
+TC01898,Female,0,Yes,Yes,61,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),72.71,4379.56,No
+TC01899,Male,0,No,No,33,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,37.68,1323.39,No
+TC01900,Female,0,No,No,14,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,66.11,911.48,No
+TC01901,Female,1,No,No,61,Yes,No phone service,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,70.71,4320.24,Yes
+TC01902,Female,0,Yes,No,40,Yes,No phone service,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),87.13,3481.48,No
+TC01903,Male,0,No,No,58,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,66.44,3843.46,No
+TC01904,Female,0,No,No,33,Yes,No,DSL,Yes,No,No,No,No,No,Two year,No,Electronic check,51.94,1680.39,No
+TC01905,Male,0,Yes,No,9,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),54.67,479.6,Yes
+TC01906,Female,0,No,No,49,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),56.05,2759.94,Yes
+TC01907,Female,0,Yes,No,9,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),75.16,733.19,No
+TC01908,Female,0,Yes,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Mailed check,75.68,3670.54,No
+TC01909,Female,0,No,No,30,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,50.72,1472.84,No
+TC01910,Male,0,No,No,57,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,38.08,2210.1,No
+TC01911,Female,0,Yes,No,63,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),62.43,3952.11,No
+TC01912,Female,0,Yes,No,29,No,No phone service,Fiber optic,No,No,No,No,No,Yes,Two year,No,Electronic check,59.03,1686.88,No
+TC01913,Male,0,Yes,No,64,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,46.9,3008.88,No
+TC01914,Male,1,No,No,8,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,77.44,642.41,Yes
+TC01915,Female,0,Yes,Yes,7,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),45.67,321.57,No
+TC01916,Male,0,No,No,72,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,57.05,4126.81,No
+TC01917,Male,1,No,No,41,No,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,Two year,Yes,Electronic check,69.19,2802.27,No
+TC01918,Female,0,Yes,No,32,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),31.08,1074.27,No
+TC01919,Male,0,No,No,11,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),93.12,947.15,Yes
+TC01920,Male,0,No,No,21,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),76.05,1620.16,No
+TC01921,Male,0,No,No,50,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),80.08,4018.67,No
+TC01922,Female,1,Yes,Yes,59,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,70.88,4207.64,Yes
+TC01923,Female,0,Yes,No,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),28.36,1843.43,No
+TC01924,Female,0,Yes,Yes,29,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,77.14,2283.83,Yes
+TC01925,Male,0,No,No,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),40.38,1328.22,No
+TC01926,Male,0,No,No,11,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,73.84,764.79,Yes
+TC01927,Female,0,Yes,No,6,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),81.14,443.05,Yes
+TC01928,Female,0,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),61.66,1916.45,No
+TC01929,Male,0,No,No,42,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,78.23,3221.8,No
+TC01930,Male,0,Yes,No,7,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,22.63,230.43,No
+TC01931,Male,0,Yes,No,29,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),71.68,2120.68,No
+TC01932,Female,0,No,No,46,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,42.71,2037.73,No
+TC01933,Male,0,Yes,Yes,59,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),80.3,4806.56,No
+TC01934,Female,0,Yes,No,68,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Two year,No,Electronic check,71.89,4874.44,No
+TC01935,Male,0,Yes,Yes,24,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),20.53,457.95,No
+TC01936,Female,0,Yes,Yes,28,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),44.25,1131.89,No
+TC01937,Female,0,No,No,63,Yes,Yes,DSL,Yes,No,No,No,No,Yes,One year,Yes,Mailed check,56.37,3535.06,No
+TC01938,Female,0,No,No,50,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),64.88,3314.63,No
+TC01939,Male,0,No,Yes,19,Yes,No phone service,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),61.82,1141.47,Yes
+TC01940,Male,0,Yes,Yes,50,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),37.31,1857.1,No
+TC01941,Female,0,No,No,11,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),81.35,872.67,No
+TC01942,Male,0,Yes,Yes,32,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),77.28,2487.96,No
+TC01943,Female,0,No,No,22,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,36.66,857.96,No
+TC01944,Female,0,Yes,Yes,72,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,70.88,5041.79,No
+TC01945,Female,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,26.15,0.0,Yes
+TC01946,Male,0,Yes,Yes,62,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),82.23,5157.72,No
+TC01947,Female,0,Yes,Yes,20,No,No phone service,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),52.58,1080.92,No
+TC01948,Male,0,No,No,2,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,49.92,89.46,Yes
+TC01949,Female,0,Yes,Yes,48,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),36.37,1814.04,No
+TC01950,Female,0,Yes,No,49,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,32.89,1557.01,No
+TC01951,Female,0,No,No,10,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),54.51,582.35,Yes
+TC01952,Male,0,No,No,2,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),89.34,175.95,Yes
+TC01953,Female,0,Yes,No,8,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),61.5,516.26,No
+TC01954,Male,0,No,Yes,29,Yes,No phone service,Fiber optic,No,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),72.78,2015.13,No
+TC01955,Male,0,No,No,9,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),76.62,679.15,Yes
+TC01956,Female,1,No,No,51,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,80.2,4119.67,No
+TC01957,Male,0,No,No,5,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,31.29,153.92,Yes
+TC01958,Male,0,No,Yes,57,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Two year,Yes,Electronic check,53.83,3118.52,No
+TC01959,Female,1,No,No,63,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),86.94,5526.09,No
+TC01960,Female,1,No,No,52,Yes,No,DSL,No,Yes,No,No,No,Yes,One year,No,Credit card (automatic),56.86,2918.38,No
+TC01961,Female,0,No,No,68,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,60.22,4127.92,No
+TC01962,Male,1,Yes,No,68,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,61.09,4114.41,Yes
+TC01963,Female,1,Yes,Yes,3,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,One year,Yes,Mailed check,54.92,166.92,No
+TC01964,Male,0,Yes,Yes,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),37.95,937.05,Yes
+TC01965,Male,0,No,Yes,55,Yes,No,DSL,No,No,No,No,Yes,No,One year,Yes,Electronic check,62.96,3429.39,Yes
+TC01966,Male,0,Yes,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),37.06,920.92,No
+TC01967,Female,0,No,No,53,Yes,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,59.99,3159.26,No
+TC01968,Male,0,No,No,56,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,No,Bank transfer (automatic),73.42,4088.29,Yes
+TC01969,Female,0,No,No,72,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),91.29,6601.15,No
+TC01970,Female,0,Yes,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,21.9,492.16,No
+TC01971,Female,0,No,No,25,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),57.78,1409.03,No
+TC01972,Female,0,No,No,1,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Electronic check,42.97,84.62,Yes
+TC01973,Female,0,Yes,Yes,20,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Credit card (automatic),74.12,1486.74,No
+TC01974,Female,0,No,Yes,20,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,69.86,1339.04,Yes
+TC01975,Female,0,Yes,Yes,33,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),81.22,2714.49,No
+TC01976,Female,0,No,Yes,30,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,58.08,1726.14,No
+TC01977,Male,1,No,No,62,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),51.39,3130.06,No
+TC01978,Female,1,Yes,No,56,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,32.74,1733.15,Yes
+TC01979,Male,1,Yes,No,53,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),87.54,4675.76,Yes
+TC01980,Male,1,Yes,Yes,0,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,Two year,Yes,Electronic check,55.19,0.0,No
+TC01981,Male,0,Yes,No,34,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,39.31,1286.79,Yes
+TC01982,Male,0,No,No,53,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),62.75,3351.33,Yes
+TC01983,Male,0,Yes,Yes,17,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,38.7,690.13,Yes
+TC01984,Male,0,Yes,No,31,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,76.36,2335.68,No
+TC01985,Male,1,No,Yes,53,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),69.2,3704.11,Yes
+TC01986,Male,0,No,No,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,30.85,1871.5,No
+TC01987,Female,0,No,No,62,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),75.33,4724.33,No
+TC01988,Female,0,No,No,31,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,One year,Yes,Mailed check,49.22,1573.46,No
+TC01989,Male,0,Yes,No,29,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Two year,Yes,Credit card (automatic),76.87,2241.8,No
+TC01990,Female,0,No,No,27,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),87.06,2332.87,No
+TC01991,Male,0,Yes,No,48,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,64.69,3102.88,Yes
+TC01992,Female,1,No,Yes,30,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,64.25,1945.13,No
+TC01993,Female,0,No,No,29,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),62.71,1768.29,Yes
+TC01994,Male,0,No,No,12,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),67.62,780.66,No
+TC01995,Male,0,No,Yes,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,27.47,876.87,No
+TC01996,Male,0,No,Yes,17,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,72.06,1234.43,No
+TC01997,Female,0,Yes,No,38,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,One year,No,Electronic check,60.47,2301.18,Yes
+TC01998,Male,0,No,No,64,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),72.64,4622.85,No
+TC01999,Male,0,No,No,56,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),87.8,4949.62,No
+TC02000,Male,1,No,No,34,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,82.28,2755.74,Yes
+TC02001,Male,0,No,No,71,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,One year,Yes,Mailed check,74.03,5228.54,No
+TC02002,Male,0,Yes,No,71,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),18.92,1374.54,Yes
+TC02003,Male,0,No,No,32,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),72.05,2342.75,No
+TC02004,Female,0,Yes,No,55,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,34.32,1855.77,No
+TC02005,Male,0,Yes,Yes,24,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,51.07,1234.96,No
+TC02006,Male,1,Yes,No,64,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,80.89,5145.81,No
+TC02007,Male,0,No,No,27,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),82.97,2232.3,Yes
+TC02008,Male,0,Yes,Yes,18,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,50.24,910.07,No
+TC02009,Male,0,Yes,No,9,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Two year,Yes,Electronic check,81.53,756.18,No
+TC02010,Female,0,Yes,Yes,61,Yes,No,DSL,No,No,No,No,Yes,Yes,Two year,No,Credit card (automatic),54.01,3307.31,No
+TC02011,Male,0,No,No,21,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),65.32,1382.65,No
+TC02012,Female,0,No,No,59,Yes,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,73.31,4282.15,No
+TC02013,Female,0,Yes,Yes,6,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,50.16,316.49,Yes
+TC02014,Male,0,Yes,No,36,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Electronic check,61.93,2251.52,No
+TC02015,Male,0,No,No,31,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Two year,Yes,Mailed check,86.74,2716.5,No
+TC02016,Female,0,Yes,Yes,32,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,66.26,2091.54,No
+TC02017,Female,0,No,No,12,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,No,Electronic check,54.82,694.46,No
+TC02018,Female,1,Yes,Yes,5,Yes,No,DSL,No,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,49.72,195.91,No
+TC02019,Female,0,No,No,25,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),36.8,902.77,Yes
+TC02020,Female,0,Yes,Yes,34,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),51.79,1749.84,Yes
+TC02021,Female,0,No,No,57,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,78.22,4408.04,No
+TC02022,Male,0,Yes,Yes,33,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),87.54,2877.19,No
+TC02023,Male,0,No,No,17,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,57.94,993.84,No
+TC02024,Male,0,No,No,19,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),29.23,482.34,No
+TC02025,Female,0,No,No,44,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),86.03,3769.53,No
+TC02026,Female,0,Yes,No,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),37.97,1107.13,No
+TC02027,Female,0,Yes,No,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),23.47,1607.21,No
+TC02028,Male,0,No,No,32,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,65.04,2089.78,Yes
+TC02029,Female,0,No,No,41,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,66.94,2749.57,No
+TC02030,Female,0,Yes,No,4,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Mailed check,74.56,307.52,Yes
+TC02031,Female,1,Yes,No,14,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,65.93,947.2,Yes
+TC02032,Male,0,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),87.87,5487.07,Yes
+TC02033,Female,0,No,No,25,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,75.51,1825.21,No
+TC02034,Female,1,No,No,30,Yes,No phone service,DSL,Yes,No,Yes,No,No,No,One year,Yes,Electronic check,47.02,1463.01,No
+TC02035,Male,0,No,No,43,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),75.35,3289.88,Yes
+TC02036,Male,0,No,No,4,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),89.81,356.59,No
+TC02037,Female,1,Yes,No,36,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),76.04,2732.69,No
+TC02038,Female,0,Yes,No,25,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,22.27,432.64,No
+TC02039,Male,0,Yes,No,10,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),58.99,540.14,Yes
+TC02040,Male,0,No,No,30,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,66.19,2006.45,Yes
+TC02041,Male,0,Yes,No,32,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),21.56,737.94,No
+TC02042,Female,0,Yes,Yes,13,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,59.45,802.0,No
+TC02043,Female,0,Yes,No,39,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,90.71,3534.66,No
+TC02044,Male,0,Yes,No,54,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Two year,Yes,Credit card (automatic),67.49,3721.49,No
+TC02045,Female,0,No,No,19,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,One year,No,Mailed check,63.0,1237.21,No
+TC02046,Female,0,Yes,Yes,70,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,30.21,2098.95,No
+TC02047,Male,0,Yes,Yes,44,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,76.46,3451.52,Yes
+TC02048,Male,1,No,No,56,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),77.67,4305.67,Yes
+TC02049,Female,0,Yes,No,5,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),83.43,358.28,Yes
+TC02050,Male,0,Yes,No,56,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,68.24,3804.6,No
+TC02051,Female,0,Yes,No,24,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),53.16,1245.49,Yes
+TC02052,Male,0,No,No,51,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,72.36,3675.76,Yes
+TC02053,Male,0,Yes,No,58,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),79.06,4617.4,No
+TC02054,Female,1,No,No,18,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Mailed check,58.86,1058.12,No
+TC02055,Male,0,No,No,18,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,78.86,1419.15,Yes
+TC02056,Female,0,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),42.91,173.99,Yes
+TC02057,Male,1,Yes,No,44,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),78.1,3343.91,No
+TC02058,Female,0,No,No,56,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,One year,Yes,Electronic check,67.7,3730.59,No
+TC02059,Female,0,Yes,No,29,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,55.37,1590.32,Yes
+TC02060,Male,0,Yes,No,11,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),73.08,770.16,Yes
+TC02061,Male,0,No,No,23,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,62.9,1437.43,Yes
+TC02062,Female,0,Yes,Yes,29,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,26.43,822.64,No
+TC02063,Male,0,Yes,No,66,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),57.18,3770.9,No
+TC02064,Male,1,Yes,Yes,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,33.76,250.95,No
+TC02065,Female,1,Yes,No,25,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,49.72,1211.28,No
+TC02066,Male,1,Yes,Yes,46,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,79.35,3718.52,No
+TC02067,Male,0,No,No,17,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,92.18,1628.36,Yes
+TC02068,Female,0,No,No,64,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,61.44,3956.0,No
+TC02069,Female,1,Yes,Yes,66,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),84.77,5532.32,No
+TC02070,Male,0,No,No,27,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Electronic check,56.77,1545.06,No
+TC02071,Female,0,Yes,No,54,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),50.33,2733.17,No
+TC02072,Male,0,Yes,No,55,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,28.96,1593.82,No
+TC02073,Male,0,Yes,Yes,49,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,59.89,2911.81,No
+TC02074,Female,0,Yes,Yes,13,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,69.35,887.04,Yes
+TC02075,Female,1,Yes,No,3,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,50.99,127.38,Yes
+TC02076,Male,0,Yes,No,25,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,One year,No,Bank transfer (automatic),78.75,1922.95,No
+TC02077,Female,0,Yes,No,9,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.95,693.19,Yes
+TC02078,Female,1,No,No,21,Yes,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),41.2,900.49,Yes
+TC02079,Male,0,Yes,No,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),69.9,3204.0,No
+TC02080,Male,0,Yes,No,42,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,35.89,1521.47,No
+TC02081,Male,0,Yes,Yes,15,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),71.08,1081.79,Yes
+TC02082,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,30.95,124.67,Yes
+TC02083,Male,0,Yes,Yes,16,No,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,72.4,1193.3,No
+TC02084,Female,0,No,No,33,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,No,Electronic check,80.17,2679.0,No
+TC02085,Male,0,Yes,No,56,Yes,No phone service,DSL,No,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),49.05,2748.32,No
+TC02086,Male,0,Yes,No,26,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),48.26,1237.38,No
+TC02087,Male,0,No,No,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),27.82,611.71,No
+TC02088,Male,0,Yes,Yes,40,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),85.9,3462.09,Yes
+TC02089,Female,0,Yes,Yes,5,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,83.0,381.82,Yes
+TC02090,Male,0,Yes,Yes,16,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),70.18,1141.03,No
+TC02091,Female,1,No,No,2,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),65.81,165.12,No
+TC02092,Male,0,No,No,38,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),95.56,3547.45,No
+TC02093,Female,0,No,No,32,Yes,No,DSL,Yes,No,No,No,No,No,One year,No,Bank transfer (automatic),50.65,1583.9,No
+TC02094,Female,0,No,No,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),46.38,1962.47,No
+TC02095,Female,0,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,57.66,2517.72,Yes
+TC02096,Male,0,No,No,28,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),69.18,1866.39,Yes
+TC02097,Male,0,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),86.38,5431.12,No
+TC02098,Female,1,No,No,67,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Two year,No,Bank transfer (automatic),42.21,2847.73,No
+TC02099,Female,0,Yes,No,8,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,29.3,255.91,No
+TC02100,Female,1,Yes,Yes,67,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,64.01,4351.97,No
+TC02101,Female,1,No,No,14,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),43.96,618.73,No
+TC02102,Male,0,Yes,No,18,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),62.91,1117.47,Yes
+TC02103,Female,0,No,No,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),51.62,1909.27,No
+TC02104,Female,0,Yes,No,2,Yes,No phone service,Fiber optic,Yes,Yes,No,No,No,Yes,Two year,No,Credit card (automatic),72.68,129.97,Yes
+TC02105,Female,1,No,Yes,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,40.69,1086.24,No
+TC02106,Female,0,No,No,14,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),73.36,1057.15,No
+TC02107,Male,0,Yes,No,35,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,39.87,1406.03,No
+TC02108,Male,1,No,No,59,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,79.77,4728.31,No
+TC02109,Female,0,No,No,67,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,72.79,4927.99,No
+TC02110,Male,0,No,No,15,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,71.84,1080.61,Yes
+TC02111,Female,0,Yes,No,39,Yes,No phone service,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Mailed check,62.87,2506.62,Yes
+TC02112,Female,1,No,No,34,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),42.16,1404.37,Yes
+TC02113,Female,1,No,No,30,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,41.85,1252.57,No
+TC02114,Female,0,Yes,No,46,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),74.54,3409.61,No
+TC02115,Female,0,Yes,Yes,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,23.66,1735.23,No
+TC02116,Male,0,Yes,No,29,Yes,No phone service,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),63.08,1788.74,Yes
+TC02117,Male,0,No,No,4,Yes,Yes,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,48.44,180.89,Yes
+TC02118,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),65.57,4253.23,No
+TC02119,Female,0,No,No,68,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,No,Bank transfer (automatic),86.8,5926.18,Yes
+TC02120,Female,0,No,No,23,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,49.74,1193.89,No
+TC02121,Female,0,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,74.53,2719.51,Yes
+TC02122,Female,0,Yes,No,62,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,74.09,4626.09,No
+TC02123,Female,0,No,No,36,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,79.28,2887.66,Yes
+TC02124,Male,0,Yes,No,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,22.02,798.69,No
+TC02125,Male,0,No,No,67,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,87.21,5867.65,No
+TC02126,Male,0,No,No,60,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),53.05,3210.16,Yes
+TC02127,Male,1,No,No,37,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,62.72,2294.41,No
+TC02128,Male,0,Yes,No,11,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,64.68,703.47,Yes
+TC02129,Male,0,No,No,32,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,71.75,2298.81,No
+TC02130,Female,1,No,No,49,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,69.89,3411.18,No
+TC02131,Male,0,Yes,No,19,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,72.69,1318.46,No
+TC02132,Male,0,No,No,39,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),61.36,2343.64,Yes
+TC02133,Male,0,No,No,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),34.65,1672.4,No
+TC02134,Male,1,No,No,6,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,18.0,144.23,No
+TC02135,Female,0,Yes,Yes,41,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,83.44,3421.41,No
+TC02136,Male,1,Yes,No,53,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,30.39,1721.26,No
+TC02137,Female,0,Yes,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),45.75,649.46,No
+TC02138,Male,0,Yes,No,40,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Two year,No,Electronic check,63.56,2560.2,No
+TC02139,Male,0,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),86.81,4478.96,No
+TC02140,Male,0,No,No,3,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,One year,Yes,Bank transfer (automatic),68.61,248.46,No
+TC02141,Female,0,Yes,No,47,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),67.89,3217.03,No
+TC02142,Male,0,No,Yes,18,Yes,No,DSL,No,Yes,Yes,No,No,Yes,Two year,Yes,Mailed check,54.77,1028.67,No
+TC02143,Male,1,Yes,No,29,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),34.75,1009.97,No
+TC02144,Female,0,Yes,No,47,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,87.04,4157.4,No
+TC02145,Female,0,Yes,Yes,0,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Mailed check,58.62,51.33,No
+TC02146,Male,0,Yes,Yes,1,Yes,No phone service,Fiber optic,No,No,Yes,No,No,No,Two year,Yes,Credit card (automatic),63.98,29.89,No
+TC02147,Male,0,No,No,32,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),67.55,2174.46,Yes
+TC02148,Male,0,No,No,69,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,83.69,5712.72,Yes
+TC02149,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,31.49,60.87,No
+TC02150,Female,0,Yes,Yes,57,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,58.01,3315.54,Yes
+TC02151,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,Yes,No,No,One year,Yes,Credit card (automatic),84.54,476.65,No
+TC02152,Female,1,Yes,No,35,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,66.77,2332.58,No
+TC02153,Male,0,No,No,31,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,54.88,1627.03,No
+TC02154,Female,0,No,No,34,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,72.32,2564.37,No
+TC02155,Male,0,Yes,Yes,5,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),62.18,316.14,No
+TC02156,Female,0,Yes,No,55,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),57.75,3136.24,No
+TC02157,Male,1,Yes,Yes,20,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Two year,Yes,Mailed check,60.96,1265.03,No
+TC02158,Female,1,Yes,No,56,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),42.14,2441.27,Yes
+TC02159,Female,1,No,No,47,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76.47,3585.99,No
+TC02160,Male,0,No,No,40,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),58.5,2336.03,Yes
+TC02161,Female,0,No,No,22,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),78.78,1742.68,No
+TC02162,Male,0,Yes,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,26.31,1192.13,No
+TC02163,Male,0,No,No,72,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),77.73,5568.93,No
+TC02164,Male,0,Yes,No,67,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),68.17,4638.67,No
+TC02165,Female,0,No,No,66,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,90.26,5951.87,No
+TC02166,Female,1,Yes,Yes,16,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,86.49,1350.34,No
+TC02167,Female,0,Yes,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),84.62,3535.96,Yes
+TC02168,Male,0,No,No,29,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,One year,No,Mailed check,44.36,1329.35,No
+TC02169,Male,0,Yes,No,70,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),54.87,3761.86,Yes
+TC02170,Male,0,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,71.39,4936.1,No
+TC02171,Male,0,No,No,63,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,One year,Yes,Credit card (automatic),91.54,5865.51,No
+TC02172,Female,0,Yes,No,11,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),90.17,1073.11,Yes
+TC02173,Female,1,No,No,23,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),38.45,907.28,Yes
+TC02174,Female,0,No,No,51,No,No phone service,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,66.59,3448.75,Yes
+TC02175,Female,0,No,No,54,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),77.24,4223.23,No
+TC02176,Female,0,No,No,25,Yes,No,DSL,No,Yes,Yes,No,No,Yes,One year,No,Mailed check,63.11,1572.72,No
+TC02177,Female,0,No,No,9,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),64.92,621.27,Yes
+TC02178,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),60.11,612.53,Yes
+TC02179,Female,0,No,No,49,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,One year,Yes,Mailed check,75.34,3641.11,No
+TC02180,Male,0,No,No,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),18.0,617.07,No
+TC02181,Male,0,Yes,Yes,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,34.43,1219.51,No
+TC02182,Male,0,Yes,No,59,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,60.33,3563.6,No
+TC02183,Female,0,No,No,1,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),66.12,66.71,No
+TC02184,Female,0,Yes,No,55,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,49.4,2726.27,No
+TC02185,Female,1,Yes,No,20,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),61.45,1241.62,Yes
+TC02186,Female,0,Yes,Yes,67,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,80.86,5462.36,Yes
+TC02187,Male,0,No,No,69,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,27.42,1911.04,No
+TC02188,Male,1,Yes,Yes,36,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),33.24,1189.52,No
+TC02189,Female,0,No,No,23,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,57.47,1288.21,No
+TC02190,Female,0,No,Yes,17,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),74.55,1248.45,No
+TC02191,Female,0,No,No,13,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),61.27,806.96,No
+TC02192,Female,0,Yes,No,72,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,65.75,4705.76,Yes
+TC02193,Male,0,No,No,13,Yes,No phone service,DSL,No,No,No,Yes,Yes,No,Two year,Yes,Mailed check,62.02,844.1,No
+TC02194,Male,1,No,No,32,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,29.76,969.52,No
+TC02195,Male,0,Yes,No,34,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),40.04,1407.1,No
+TC02196,Male,0,No,Yes,49,Yes,No phone service,DSL,Yes,No,No,Yes,No,No,One year,No,Electronic check,49.41,2395.54,No
+TC02197,Male,0,Yes,No,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),71.56,4331.92,No
+TC02198,Male,0,No,No,40,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),76.54,3107.04,No
+TC02199,Male,0,Yes,Yes,55,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,66.93,3686.35,No

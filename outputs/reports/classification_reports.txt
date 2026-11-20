@@ -1,0 +1,60 @@
+=== Logistic Regression ===
+              precision    recall  f1-score   support
+
+   Stay (No)       0.88      0.65      0.75       170
+ Churn (Yes)       0.48      0.79      0.59        70
+
+    accuracy                           0.69       240
+   macro avg       0.68      0.72      0.67       240
+weighted avg       0.76      0.69      0.70       240
+
+=== KNN ===
+              precision    recall  f1-score   support
+
+   Stay (No)       0.72      0.84      0.78       170
+ Churn (Yes)       0.36      0.23      0.28        70
+
+    accuracy                           0.66       240
+   macro avg       0.54      0.53      0.53       240
+weighted avg       0.62      0.66      0.63       240
+
+=== Naive Bayes ===
+              precision    recall  f1-score   support
+
+   Stay (No)       0.90      0.61      0.72       170
+ Churn (Yes)       0.46      0.83      0.59        70
+
+    accuracy                           0.67       240
+   macro avg       0.68      0.72      0.66       240
+weighted avg       0.77      0.67      0.69       240
+
+=== Decision Tree ===
+              precision    recall  f1-score   support
+
+   Stay (No)       0.90      0.61      0.73       170
+ Churn (Yes)       0.47      0.84      0.61        70
+
+    accuracy                           0.68       240
+   macro avg       0.69      0.73      0.67       240
+weighted avg       0.78      0.68      0.69       240
+
+=== Random Forest ===
+              precision    recall  f1-score   support
+
+   Stay (No)       0.92      0.64      0.75       170
+ Churn (Yes)       0.50      0.86      0.63        70
+
+    accuracy                           0.70       240
+   macro avg       0.71      0.75      0.69       240
+weighted avg       0.79      0.70      0.72       240
+
+=== SVM ===
+              precision    recall  f1-score   support
+
+   Stay (No)       0.89      0.64      0.74       170
+ Churn (Yes)       0.48      0.81      0.60        70
+
+    accuracy                           0.69       240
+   macro avg       0.69      0.72      0.67       240
+weighted avg       0.77      0.69      0.70       240
+
